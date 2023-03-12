@@ -1,0 +1,131 @@
+# All blobs are from "hi6210sft-user 6.0 MRA58K eng.jenkins.20170223.113556 test-keys" and are pinned with sha1sum values
+
+# Audio
+
+# Bluetooth
+vendor/lib/libbt-vendor-hi110x.so|3f4d5901553142010a224086fcabf188bf74a582
+vendor/lib/libbt-vendor.so|eeeb1aa6edc23638e14a5edbd3e26752ee67dbd8
+vendor/lib64/libbt-vendor-hi110x.so|be4b3cf25a1d0debdd3b38e4cc3a79183679b5e5
+
+# Camera
+
+# DRM
+
+# DRM-Widevine
+vendor/lib/mediadrm/libdrmclearkeyplugin.so|d33dda20afd9dd39d11637ac1d63e8bfa3af41b2
+vendor/lib/mediadrm/libwvdrmengine.so|f7e39a82e5568a3a28dcefc03380f9a32e45f6b3
+vendor/lib64/mediadrm/libdrmclearkeyplugin.so|aa31762561835303f6203b40b2da3dcb4a581710
+
+# DTS
+vendor/lib/libdts-eagle-shared.so|ed19792b10675b3c1080997560cb5833034b454f
+vendor/lib/libomx-dts.so|5744e21ceb2f62f1c6cc095ff10feb303b4d67a8
+vendor/lib64/libomx-dts.so|b3b503b81131abc0129116320b199843c439b68a
+
+# Display-Hardware
+
+# Firmware
+vendor/firmware/4343A0_001.001.034.0056.0193_ORC.hcd|255c8c917d4210f6e2cdfe275f2198b0802d6438
+vendor/firmware/BCM4334B0_002.001.013.1554.1613_RC.hcd|99655c22198cc0f829e330771836abc9500db329
+vendor/firmware/fw_bcm4343s_apsta_hw.bin|74f64251c2aa774a81d4fc9ca1c489f2d4ce13bc
+vendor/firmware/fw_bcm4343s_hw.bin|59069a672c78d1f04483660dfd18cff7cf30993f
+vendor/firmware/fw_bcm4343s_p2p_hw.bin|e53358829d4ac449216faa7a962ff9fab1ed1edf
+vendor/firmware/fw_bcm4343s_test_hw_apsta.bin|e41027ffff5f101cdcb6f8a95455ffbbe36cf0c1
+vendor/firmware/GNSS.bin|26ff5d97d79eecf1379ee0c29e1a47a4fc63a392
+vendor/firmware/nvram4343s_hw.txt|77a22840491d0a4cb5e1dfff99ab4bd667ccc505
+vendor/firmware/nvram_CHERRY_PLUS_AS00.txt|e7b5a28f9e4fe8827103e43197d25339302df014
+vendor/firmware/nvram_CHERRY_PLUS_ED00.txt|e7b5a28f9e4fe8827103e43197d25339302df014
+vendor/firmware/nvram_CHERRY_PLUS_LD00.txt|e7b5a28f9e4fe8827103e43197d25339302df014
+vendor/firmware/nvram_CHERRY_PLUS_LS00.txt|e7b5a28f9e4fe8827103e43197d25339302df014
+vendor/firmware/nvram_CHERRY_PLUS_TL00.txt|3c389f21711ba6ef7961db0e84fde282d6ee0227
+vendor/firmware/nvram_CHERRY_PLUS_TL20M.txt|3862af9d90390bdfe42cef466a47a45d12873d3b
+vendor/firmware/nvram_CHERRY_PLUS_UL00.txt|821e5349206ba4ef3476d187eb36ebec9d899525
+vendor/firmware/RECOVER_DATA.bin|17718e8fc1dba16adbc37d41469afb3c44cd597b
+vendor/firmware/sdio_cfg|b78978bb4b24f5bc8fad5976606f786b364902ce
+vendor/firmware/SDIO_CMP.bin|91c3ff3858fdcf4203c40fb3f740cb5fe37b25ce
+vendor/firmware/SDIO_COD.bin|db9a7d88d74cb9da9dfc29b8e68893cbab4bbd03
+vendor/firmware/sdio_recover_cfg|651ce139e65d84c10243d2ecbe74c435727f9bd6
+vendor/firmware/SDIO_RW.bin|c37a5337b30b5e94216e9b54e0604a62f1c0c365
+vendor/firmware/SDIO_RW_ALICE_TL00_FEM.bin|1f283b0b77656f44fb5755e280b4aca204a67069
+vendor/firmware/SDIO_RW_ALICE_TL02_FEM.bin|22a1d8005a3d2460aaafef7b50d5648fedd68b8d
+vendor/firmware/SDIO_RW_ALICE_TL21_FEM.bin|22a1d8005a3d2460aaafef7b50d5648fedd68b8d
+vendor/firmware/SDIO_RW_ALICE_TL23_FEM.bin|69b9b8b25d1cd6731ecbe44d014e51ae840f0fa5
+vendor/firmware/SDIO_RW_ALICE_UL00_FEM.bin|1f283b0b77656f44fb5755e280b4aca204a67069
+vendor/firmware/SDIO_RW_CARMEL_L03E_FEM.bin|c37a5337b30b5e94216e9b54e0604a62f1c0c365
+vendor/firmware/SDIO_RW_CARMEL_L03_FEM.bin|c37a5337b30b5e94216e9b54e0604a62f1c0c365
+vendor/firmware/SDIO_RW_CARMEL_L21_FEM.bin|c37a5337b30b5e94216e9b54e0604a62f1c0c365
+vendor/firmware/SDIO_RW_CARMEL_L23_FEM.bin|c37a5337b30b5e94216e9b54e0604a62f1c0c365
+vendor/firmware/SDIO_RW_CARMEL_L53_FEM.bin|c37a5337b30b5e94216e9b54e0604a62f1c0c365
+vendor/firmware/SDIO_RW_CARMEL_TL00H_FEM.bin|c37a5337b30b5e94216e9b54e0604a62f1c0c365
+vendor/firmware/SDIO_RW_CARMEL_TL10_FEM.bin|c37a5337b30b5e94216e9b54e0604a62f1c0c365
+vendor/firmware/SDIO_RW_CARMEL_U22_FEM.bin|c37a5337b30b5e94216e9b54e0604a62f1c0c365
+vendor/firmware/SDIO_RW_CARMEL_UL00E_FEM.bin|c37a5337b30b5e94216e9b54e0604a62f1c0c365
+vendor/firmware/SDIO_RW_CARMEL_UL00_FEM.bin|c37a5337b30b5e94216e9b54e0604a62f1c0c365
+vendor/firmware/SDIO_RW_CARMEL_UL10_FEM.bin|c37a5337b30b5e94216e9b54e0604a62f1c0c365
+vendor/firmware/SDIO_RW_Certification_Alice_FEM.bin|179e9e4d34e0bb9aef22ff13f1d4c95fdeb27543
+vendor/firmware/SDIO_RW_Certification_CHM_FEM.bin|b52948cddc38099b198ff3b2db6d95e24f37c574
+vendor/firmware/SDIO_RW_CHC_U03_FEM.bin|b7b7b6ba362b55ea76e3fcb3e62dc14e98a2c73b
+vendor/firmware/SDIO_RW_CHM_TL00H_FEM.bin|8d5b62b263081d9be045e36ea1136f7b30ba2a1d
+vendor/firmware/SDIO_RW_CHM_TL00_FEM.bin|8d5b62b263081d9be045e36ea1136f7b30ba2a1d
+vendor/firmware/SDIO_RW_CHM_U01_FEM.bin|20bb3e1d4be50a087dab42e68dd576334838b058
+vendor/firmware/SDIO_RW_CHM_U23_FEM.bin|b7b7b6ba362b55ea76e3fcb3e62dc14e98a2c73b
+vendor/firmware/SDIO_RW_CHM_UL00_FEM.bin|8d5b62b263081d9be045e36ea1136f7b30ba2a1d
+vendor/firmware/SDIO_TBL.bin|9c6d98f0d39061addb0e395de11f05a0f7445fb8
+vendor/firmware/uart_cfg|4dbde9a624fb438a1bf7edff5c60ada60a8a55ce
+vendor/firmware/UART_CMP.bin|1845fcf3fb9793f4b7bc66274f3e2e8495393910
+vendor/firmware/UART_COD.bin|4aa15b25aec3dfbfce43bb25d5f5f3064c7e4d0f
+vendor/firmware/UART_RW.bin|8808f96e4123c337565aa6cc8fb721af2ae232ce
+vendor/firmware/UART_TBL.bin|51b0f08a27a70e2c790b88a8017db0f6a5e53ec5
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+
+# Listen
+
+# Media
+
+# Media-Hardware
+
+# NFC
+etc/nfcee_access.xml|de2d8a0ac2e5bd2eb15e423a5945cb7da3912a01
+vendor/firmware/libpn547_fw.so|9c3384f2342d1ac4a8f33015d4a97ef0ea00db47
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+
+# Sensors
+
+# Time
+
+# WFD
+cust/preinstalled/public/app/MopriaPrintService/lib/arm/libwfdscrypto.so|921bf4c269f6368c664d4cac10323f080d748aaa
+cust/preinstalled/public/app/MopriaPrintService/lib/arm/libwfdscups.so|4fdcd5f9cb09083a0b928e4fd152e70797d1b7b8
+cust/preinstalled/public/app/MopriaPrintService/lib/arm/libwfdsjpeg.so|5af3fc73c67a534ae7a05751c8995d4fb3d31aa3
+cust/preinstalled/public/app/MopriaPrintService/lib/arm/libwfdspng.so|1ecdf931092deafcbc667d4a5e943a4f6871974c
+cust/preinstalled/public/app/MopriaPrintService/lib/arm/libwfdsssl.so|527c79802f1b05a55f4c0528ff071e8b64a8e2f5
+cust/preinstalled/public/app/MopriaPrintService/lib/arm/libwfdsSupport.so|cd37fc8b381065fcc225e5701fc9925a4f6b822f
+cust/preinstalled/public/lib/libwfdscrypto.so|8093515864c969870d6b0b7387624a3e70972bb3
+cust/preinstalled/public/lib/libwfdscups.so|4095077ed139889415b9d401dfa20f3acd11f5bb
+cust/preinstalled/public/lib/libwfdsjpeg.so|b51a5a756b50a0580f17f002be3639790b7259ac
+cust/preinstalled/public/lib/libwfdspng.so|92620573f93b7723ae29f608ff7870d0e42fa709
+cust/preinstalled/public/lib/libwfdsssl.so|0aa7ccd3f3bd02c624293f6a3b2a0bff765fe005
+cust/preinstalled/public/lib/libwfdsSupport.so|56e4b05bb8c8eca633f06e01ff16f7c954d75a58
+
+# WiFi
+
+# Misc
+-vendor/framework/com.huawei.audioalgo.jar|d4035a8340a60c8613a4a7903b29be5724a717ad
+vendor/lib/drm/libdrmwvmplugin.so|71e2910665897001dc8dea0b3027929df81fd5e0
+vendor/lib/libcalmodule_akm.so|1e762c2dab4164c3fc4904aadc56bb4752749e9b
+vendor/lib/libeaglecore.so|d26a4d679609b6eef4bd1a1a2a06271f72750369
+vendor/lib/libwvdrm_L3.so|84e3aca99db67f2323e158131978e5bc3ad69fbc
+vendor/lib/libwvm.so|1202158e6590755bca69ddbb688d58d433405b32
+vendor/lib/libWVStreamControlAPI_L3.so|3bfb950f01c51430aeefdf9850301cba8e56645a
+vendor/lib64/libcalmodule_akm.so|7489626cc4a6e542961a574e6511c45d93810a28

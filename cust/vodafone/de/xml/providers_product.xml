@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- AR0002EVGA huqimeng/wx280357  20150910 create-->
+<!-- AR0006JIHU xinglei/wx368928 20161215 begin-->
+<providers_product>
+    <!--E-Mail -->
+    <provider id="Vodafone E-Mail" label="vodafone.de" domain="vodafone.de">
+        <incoming uri="imap+ssl://imap.vodafone.de:993"  username="$email" field="IMAP"/>
+        <outgoing uri="smtp+ssl://smtp.vodafone.de:465" username="$email"/>
+        <incoming uri="pop3+ssl://pop.vodafone.de:995"  username="$email" field="POP3"/>
+        <outgoing uri="smtp+ssl://smtp.vodafone.de:465" username="$email"/>
+   </provider>
+</providers_product>
+<!-- AR0006JIHU xinglei/wx368928 20161215 end-->

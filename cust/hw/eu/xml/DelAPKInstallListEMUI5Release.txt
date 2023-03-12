@@ -1,0 +1,7 @@
+/cust/hw/eu/app/HPLegacyPlugin/HPLegacyPlugin.apk
+/cust/hw/eu/app/AutoInStallAPKFromMcc/AutoInStallAPKFromMcc.apk
+/cust/hw/eu/app/GameBoxGlobal/GameBoxGlobal.apk
+/data/hw_init/cust/hw/eu/app/PlusOne/PlusOne.apk
+/data/hw_init/cust/hw/eu/app/Books/Books.apk
+/data/hw_init/cust/hw/eu/app/Newsstand/Newsstand.apk
+/data/hw_init/cust/hw/eu/app/PlayGames/PlayGames.apk

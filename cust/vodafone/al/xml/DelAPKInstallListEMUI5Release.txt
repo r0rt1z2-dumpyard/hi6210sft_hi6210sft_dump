@@ -1,0 +1,16 @@
+/data/dataapp/MyVodafone_AL/MyVodafone_AL.apk
+
+/data/dataapp/VodafoneStart_Global/VodafoneStart_Global.apk
+/data/dataapp/Protect_Global/Protect_Global.apk,priv
+/data/dataapp/Dropbox_Global/Dropbox_Global.apk
+/data/dataapp/Todoist_VDF/Todoist_VDF.apk
+/data/dataapp/ZinioReader/ZinioReader.apk
+
+/data/dataapp/Amazon_Kindle_Global/Amazon_Kindle_Global.apk
+
+/data/hw_init/cust/app/HPLegacyPlugin/HPLegacyPlugin.apk
+/data/hw_init/cust/app/EyeEm/EyeEm.apk
+/data/hw_init/cust/app/Todoist/Todoist.apk
+/data/hw_init/cust/app/Todoist_ntp/Todoist_ntp.apk
+/data/hw_init/cust/app/NewsRepublic/NewsRepublic.apk
+/data/hw_init/cust/vodafone/al/app/HwBackup_Local/HwBackup_Local.apk

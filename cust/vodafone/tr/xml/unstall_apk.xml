@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+    <tag>
+        <apk>
+        /system/app/HwFMRadio.apk;
+        <!-- DTS2016032307478 xiekaiming wx278091 20160326 begin -->
+        /system/app/HwID.apk;
+        <!-- AR0003V9VM xiekaiming wx278091 20160426 begin -->
+        /data/hw_init/cust/app/Todoist.apk;
+        /data/hw_init/cust/app/NewsRepublic.apk;
+        /data/hw_init/cust/app/EyeEm.apk;
+        /data/hw_init/cust/app/HPLegacyPlugin.apk;
+        /data/hw_init/cust/app/Todoist_ntp.apk;
+        <!-- AR0003V9VM xiekaiming wx278091 20160426  end  -->
+        <!-- AR0002VQUG xiekaiming wx278091 20161112 begin -->
+        /product/app/HwFMRadio.apk;
+        <!-- AR0002VQUG xiekaiming wx278091 20161112  end  -->
+        </apk>
+        <restoreapk>
+        <!-- AR0003V9VM xiekaiming wx278091 20160426 begin -->
+        <!--/system/app/HWID_For_TR_ZA.apk;-->
+        <!-- AR0003V9VM xiekaiming wx278091 20160426  end  -->
+        </restoreapk>
+        <!-- DTS2016032307478 xiekaiming wx278091 20160326  end  -->
+    </tag>

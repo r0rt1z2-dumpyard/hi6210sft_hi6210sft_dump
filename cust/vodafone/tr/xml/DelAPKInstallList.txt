@@ -1,0 +1,2 @@
+/data/dataapp/SpotifyAndroid_TR/SpotifyAndroid_TR.apk
+/data/dataapp/Foursquare_TR/Foursquare_TR.apk

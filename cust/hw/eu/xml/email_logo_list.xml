@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<logo_list displayimage="true">
+    <!-- SW_GLOBAL_EUROPE_QC_007 begin -->
+    <logo_item image="email_Gmail_icon.png" value="@gmail.com" displayname="Gmail"></logo_item>
+    <logo_item image="email_Hotmail_icon.png" value="@hotmail.com" displayname="Hotmail"></logo_item>
+    <logo_item image="email_Yahoomail_icon.png" value="@yahoo.com" displayname="Yahoo"></logo_item>
+    <!-- SW_GLOBAL_EUROPE_QC_007 end -->
+</logo_list>

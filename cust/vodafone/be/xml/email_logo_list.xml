@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- AR0002EVGA huqimeng/wx280357  20150910 create-->
+<logo_list displayimage="true">
+<logo_item image="email_default_icon.png" value="@proximus.be" displayname="proximus.be" />
+<logo_item image="email_default_icon.png" value="@skynet.be" displayname="skynet.be" />
+<logo_item image="email_default_icon.png" value="@kidcity.be" displayname="kidcity.be" />
+<logo_item image="email_default_icon.png" value="@belgacom.net" displayname="belgacom.net" />
+</logo_list>

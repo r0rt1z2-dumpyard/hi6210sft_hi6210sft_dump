@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- AR0002EVGA huqimeng/wx280357  20150910 create-->
+<providers_product>
+    <!--E-Mail -->
+    <provider id="Bluewin" label="Bluewin" domain="bluewin.ch">
+        <incoming uri="imap://imap.bluewin.ch:143" username="$email" />
+        <outgoing uri="smtp://smtpauth.bluewin.ch:587" username="$email" />
+        <incoming uri="pop3://pop.bluewin.ch:110" username="$email" />
+        <outgoing uri="smtp://smtpauth.bluewin.ch:587" username="$email" />
+    </provider>
+</providers_product>

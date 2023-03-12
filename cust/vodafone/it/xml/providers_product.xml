@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- AR0002EVGA huqimeng/wx280357  20150910 create-->
+<providers_product>
+    <!-- AR0003HQL1 wangqi wx205225 20160627 begin -->
+    <provider id="Gmail" label="Gmail" domain="gmail.com">
+        <incoming uri="imap+ssl+://imap.gmail.com:993" username="$email"/>
+        <outgoing uri="smtp+ssl+://smtp.gmail.com:465" username="$email"/>
+    </provider>
+    <provider id="Google Mail" label="Google Mail" domain="gmail.com">
+        <incoming uri="imap+ssl+://imap.gmail.com:993" username="$email"/>
+        <outgoing uri="smtp+ssl+://smtp.gmail.com:465" username="$email"/>
+    </provider>
+    <provider id="Vodafone.it" label="Vodafone.it" domain="vodafone.it">
+        <incoming uri="imap+ssl+://imap.vodafone.it:993" username="$email"/>
+        <outgoing uri="smtp+ssl+://smtp.vodafone.it:465" username="$email"/>
+    </provider>
+    <provider id="Yahoo.it" label="Yahoo.it" domain="yahoo.it">
+        <incoming uri="imap+ssl+://imap.mail.yahoo.com:993" username="$email"/>
+        <outgoing uri="smtp+ssl+://smtp.mail.yahoo.com:465" username="$email"/>
+    </provider>
+    <provider id="Yahoo.com" label="Yahoo.com" domain="yahoo.com">
+        <incoming uri="imap+ssl+://imap.mail.yahoo.com:993" username="$email"/>
+        <outgoing uri="smtp+ssl+://smtp.mail.yahoo.com:465" username="$email"/>
+    </provider>
+    <provider id="Email.it" label="Email.it" domain="email.it">
+        <incoming uri="imap://imapmail.email.it:143" username="$email"/>
+        <outgoing uri="smtp://smtp.email.it:587" username="$email"/>
+    </provider>
+    <!-- AR0003HQL1 wangqi wx205225 20160627 end -->
+</providers_product>

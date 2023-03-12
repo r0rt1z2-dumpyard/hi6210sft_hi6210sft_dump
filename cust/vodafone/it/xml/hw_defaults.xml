@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2009, The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+-->
+
+<resources>
+    <!--******************************** 1.PROTOCOL TEAM BEGIN -->
+
+    <!--******************************** 1.PROTOCOL TEAM END -->
+    <!--******************************** 2.APP MANUFACTURE TEAM BEGIN -->
+
+    <!--******************************** 2.APP MANUFACTURE TEAM END -->
+    <!--******************************** 3.BASEAPP TEAM BEGIN -->
+
+    <!--******************************** 3.BASEAPP TEAM END -->
+    <!--******************************** 4.MULTI-MEDIA TEAM BEGIN -->
+
+    <!--******************************** 4.MULTI-MEDIA TEAM END -->
+    <!--******************************** 5.FRAMEWORK TEAM BEGIN -->
+
+    <!--******************************** 5.FRAMEWORK TEAM END -->
+    <!--******************************** 6.DATA SERVICE TEAM BEGIN -->
+
+    <!--******************************** 6.DATA SERVICE TEAM END -->
+    <!--******************************** 7.APPLET TEAM BEGIN -->
+
+    <!--******************************** 7.APPLET TEAM END -->
+    <!--******************************** 8.CUSTOM TEAM BEGIN -->
+    <!-- AR0002EVGA linneng wx296161 20150912 begin -->
+    <integer settings.secure.wifi_ap_maxscb="5"/>
+    <!-- AR0002EVGA linneng wx296161 20150912 end -->
+    <!-- AR0002EVGA xiekaiming wx278091 20150912 begin -->
+    <integer settings.system.sound_effects_enabled="1"/>
+    <!-- AR0002EVGA xiekaiming wx278091 20150912 end   -->
+    <!-- AR0002EVCG wuyongchao wx275179 20150911 begin -->
+    <string show_oem_setup_wizard="true"/>
+    <!-- AR0002EVCG wuyongchao wx275179 20150911 end   -->
+    <!-- AR0002EVGA huqimeng WX280357 20150914 begin-->
+    <integer hwdefault_CheckIntervalt="-1"/>
+    <!-- AR0002EVGA huqimeng WX280357 20150914 end-->
+    <!-- AR0003BQMV liudujie/00261417 20151109 begin-->
+    <!-- DTS2015051105084 chenlong/wx236603 20150511 begin -->
+    <integer settings.secure.huawei_rcs_switcher="1"/>
+    <!-- DTS2015051105084 chenlong/wx236603 20150511 end -->
+    <integer settings.system.im_thread_display_switcher="1"/>
+    <!-- AR0003BQMV liudujie/00261417 20151109 end-->
+    <!-- AR0003HQL3 wangqi wx205225 20151211 begin -->
+    <integer settings.system.dtmf_tone="1"/>
+    <!-- AR0003HQL3 wangqi wx205225 20151211 end -->
+    <!--******************************** 8.CUSTOM TEAM END -->
+</resources>

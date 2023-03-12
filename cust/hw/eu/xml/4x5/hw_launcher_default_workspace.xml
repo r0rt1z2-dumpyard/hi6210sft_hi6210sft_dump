@@ -1,0 +1,437 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<favorites xmlns:launcher="http://schemas.android.com/apk/res/com.huawei.android.launcher">
+    <!-- AR0003HC10   xiekaiming wx278091 20151208 begin -->
+    <favorite
+        launcher:packageName="com.huawei.hidisk"
+        launcher:className="com.huawei.hidisk.filemanager.FileManager"
+        launcher:op="delete" />
+     <favorite
+        launcher:packageName="com.android.deskclock"
+        launcher:className="com.android.deskclock.AlarmsMainActivity"
+        launcher:op="delete" />
+    <favorite
+        launcher:packageName="com.android.mms"
+        launcher:className="com.android.mms.ui.ConversationList"
+        launcher:op="delete" />
+    <!-- AR0003U7RT   meishuangwen wx230765 20160224 begin -->
+    <favorite
+        launcher:packageName="com.android.settings"
+        launcher:className="com.android.settings.HWSettings"
+        launcher:op="delete" />
+    <!-- AR0003U7RT   meishuangwen wx230765 20160224 end -->
+    <!-- AR0003HC10   xiekaiming wx278091 20151224 begin -->
+    <favorite
+        launcher:packageName="com.lifevibes.grouprecorder"
+        launcher:className="com.lifevibes.grouprecorder.EntryActivity"
+        launcher:container="-100"
+        launcher:op="delete" />
+    <!-- AR0003HC10   xiekaiming wx278091 20151224 end -->
+    <favorite
+        launcher:packageName="com.android.chrome"
+        launcher:className="com.google.android.apps.chrome.Main"
+        launcher:container="-101"
+        launcher:screen="2"
+        launcher:x="2"
+        launcher:y="0"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="modify"/>
+    <favorite
+        launcher:packageName="com.huawei.camera"
+        launcher:className="com.huawei.camera"
+        launcher:container="-100"
+        launcher:screen="3"
+        launcher:x="4"
+        launcher:y="5"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="insert"/>
+    <favorite
+        launcher:packageName="com.huawei.camera"
+        launcher:className="com.huawei.camera"
+        launcher:container="-101"
+        launcher:screen="3"
+        launcher:x="3"
+        launcher:y="0"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="modify"/>
+    <!-- AR0003U7RT   meishuangwen wx230765 20160224 begin -->
+    <favorite
+        launcher:packageName="com.android.mms"
+        launcher:className="com.android.mms.ui.ConversationList"
+        launcher:container="-100"
+        launcher:screen="1"
+        launcher:x="2"
+        launcher:y="4"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="insertinto"/>
+    <!-- AR0003U7RT   meishuangwen wx230765 20160224 end -->
+    <favorite
+        launcher:packageName="com.android.gallery3d"
+        launcher:className="com.huawei.gallery.app.GalleryMain"
+        launcher:container="-100"
+        launcher:screen="1"
+        launcher:x="3"
+        launcher:y="4"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="modify" />
+    <favorite
+        launcher:packageName="com.android.mediacenter"
+        launcher:className="com.android.mediacenter.PageActivity"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:x="0"
+        launcher:y="0"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="modify" />
+    <favorite
+        launcher:packageName="com.huawei.hwvplayer"
+        launcher:className="com.huawei.hwvplayer.framework.MainActivity"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:x="1"
+        launcher:y="0"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="insertinto" />
+    <favorite
+        launcher:packageName="com.android.calendar"
+        launcher:className="com.android.calendar.AllInOneActivity"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:x="2"
+        launcher:y="0"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="insertinto"/>
+    <favorite
+        launcher:packageName="com.android.email"
+        launcher:className="com.android.email.activity.Welcome"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:x="3"
+        launcher:y="0"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="insertinto"/>
+    <favorite
+        launcher:packageName="com.huawei.systemmanager"
+        launcher:className="com.huawei.systemmanager.mainscreen.MainScreenActivity"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:x="1"
+        launcher:y="1"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="insertinto"/>
+    <!-- AR0003JQCO   xiekaiming wx278091 20151227 begin -->
+    <favorite
+        launcher:packageName="com.huawei.hicare"
+        launcher:className="com.huawei.hicare.ui.HelpCenterActivity"
+        launcher:op="delete"/>
+    <favorite
+        launcher:packageName="com.huawei.hicare"
+        launcher:className="com.huawei.hicare.ui.HelpCenterActivity"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:x="2"
+        launcher:y="1"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="insertinto"/>
+    <!-- AR0003JQCO   xiekaiming wx278091 20151227 end -->
+    <!-- AR0003U7RT   meishuangwen wx230765 20160224 begin -->
+    <favorite
+        launcher:packageName="com.android.settings"
+        launcher:className="com.android.settings.HWSettings"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:x="3"
+        launcher:y="1"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="insertinto"/>
+    <!-- AR0003U7RT   meishuangwen wx230765 20160224 end -->
+    <!-- AR0003T7JM   meishuangwen wx230765 20160217 begin -->
+    <favorite
+        launcher:packageName="com.huawei.health"
+        launcher:className="com.huawei.healthcloud.cardui.MainActivity"
+        launcher:op="delete"/>
+    <folder
+        launcher:title="@string/folder_tools"
+        launcher:container="-100"
+        launcher:op="delete" />
+    <folder
+        launcher:title="@string/folder_top_apps"
+        launcher:container="-100"
+        launcher:op="delete" />
+    <favorite
+        launcher:packageName="com.lifevibes.grouprecorder"
+        launcher:className="com.lifevibes.grouprecorder.EntryActivity"
+        launcher:op="delete" />
+    <favorite
+        launcher:packageName="com.huawei.health"
+        launcher:className="com.huawei.healthcloud.cardui.MainActivity"
+        launcher:screen="2"
+        launcher:op="add"/>
+    <folder
+        launcher:title="@string/folder_tools"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:op="add">
+        <favorite
+            launcher:packageName="com.huawei.hidisk"
+            launcher:className="com.huawei.hidisk.filemanager.FileManager" />
+        <favorite
+            launcher:packageName="com.android.deskclock"
+            launcher:className="com.android.deskclock.AlarmsMainActivity" />
+        <favorite
+            launcher:packageName="com.huawei.android.totemweather"
+            launcher:className="com.huawei.android.totemweather.WeatherHome" />
+        <favorite
+            launcher:packageName="com.android.calculator2"
+            launcher:className="com.android.calculator2.Calculator" />
+        <favorite
+            launcher:packageName="com.example.android.notepad"
+            launcher:className="com.example.android.notepad.NotePadActivity" />
+        <favorite
+            launcher:packageName="com.android.soundrecorder"
+            launcher:className="com.android.soundrecorder.SoundRecorder" />
+        <favorite
+            launcher:packageName="com.huawei.android.FMRadio"
+            launcher:className="com.huawei.android.FMRadio.FMRadioMainActivity" />
+        <favorite
+            launcher:packageName="com.android.systemui"
+            launcher:className="com.android.systemui.flashlight.FlashlightActivity" />
+        <favorite
+            launcher:packageName="com.android.hwmirror"
+            launcher:className="com.android.hwmirror.Mirror" />
+        <favorite
+            launcher:packageName="com.huawei.compass"
+            launcher:className="com.huawei.compass.MainActivity" />
+        <favorite
+            launcher:packageName="com.huawei.KoBackup"
+            launcher:className="com.huawei.KoBackup.InitializeActivity" />
+        <favorite
+            launcher:packageName="com.android.providers.downloads.ui"
+            launcher:className="com.android.providers.downloads.ui.DownloadList" />
+        <favorite
+            launcher:packageName="com.android.stk"
+            launcher:className="com.android.stk.StkLauncherActivity" />
+        <favorite
+            launcher:packageName="com.android.stk"
+            launcher:className="com.android.stk.StkLauncherActivity2"/>
+        <favorite
+            launcher:packageName="com.huawei.android.nfctag"
+            launcher:className="com.huawei.android.nfctag.activity.SceneListActivity" />
+        <favorite
+            launcher:packageName="com.huawei.android.remotecontroller"
+            launcher:className="com.huawei.android.remotecontroller.StartActivity" />
+        <!-- AR0003GOKV lishiyu wx343117 20160321 begin -->
+        <favorite
+            launcher:packageName="com.huawei.android.weigh"
+            launcher:className="com.huawei.android.weigh.MainActivity" />
+        <!-- AR0003GOKV lishiyu wx343117 20160321 end -->
+    </folder>
+
+    <folder
+        launcher:title="@string/folder_top_apps"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:op="add">
+        <favorite
+            launcher:packageName="cn.wps.moffice_eng"
+            launcher:className="cn.wps.moffice.documentmanager.PreStartActivity" />
+        <favorite
+            launcher:packageName="com.facebook.katana"
+            launcher:className="com.facebook.katana.LoginActivity" />
+        <favorite
+            launcher:packageName="com.twitter.android"
+            launcher:className="com.twitter.android.StartActivity" />
+        <favorite
+            launcher:packageName="com.todoist"
+            launcher:className="com.todoist.activity.HomeActivity" />
+        <!--AR0008QOIJ  liuchengfang/wx336716 20170113 begin -->
+       <favorite
+            launcher:packageName="com.todoist.promotionupgrader"
+            launcher:className="com.todoist.promotionupgrader.WelcomeActivity" />
+        <!--AR0008QOIJ  liuchengfang/wx336716 20170113 end -->
+        <favorite
+            launcher:packageName="com.zinio.mobile.android.reader"
+            launcher:className="com.zinio.mobile.android.reader.view.SplashScreenActivity" />
+        <favorite
+            launcher:packageName="com.cleanmaster.mguard"
+            launcher:className="com.keniu.security.main.MainActivity" />
+        <favorite
+            launcher:packageName="com.huawei.android.honorclub"
+            launcher:className="com.huawei.android.honorclub.Bookmark_01" />
+        <!-- AR0003T1JM meishuangwen wx230765 20160215 begin -->
+        <favorite
+            launcher:packageName="com.shazam.android"
+            launcher:className="com.shazam.android.activities.SplashActivity" />
+        <favorite
+            launcher:packageName="com.booking"
+            launcher:className="com.booking.activity.StartActivity" />
+        <favorite
+            launcher:packageName="deezer.android.app"
+            launcher:className="com.deezer.android.ui.activity.LauncherActivity" />
+        <favorite
+            launcher:packageName="com.baseapp.eyeem"
+            launcher:className="com.baseapp.eyeem.Start" />
+        <favorite
+            launcher:packageName="com.mobilesrepublic.appy"
+            launcher:className="com.mobilesrepublic.appy.SplashActivity" />
+        <favorite
+            launcher:packageName="com.dropbox.android"
+            launcher:className="com.dropbox.android.activity.DropboxBrowser" />
+        <favorite
+            launcher:packageName="com.applift.huaweihub"
+            launcher:className="com.applift.huaweihub.activity.MainActivity" />
+        <favorite
+            launcher:packageName="com.opera.browser"
+            launcher:className="com.opera.Opera" />
+        <!-- AR0003T1JM meishuangwen wx230765 20160215 end -->
+        <!-- AR0004FMMT zhangdi wx326716 20160705 begin -->
+        <favorite
+            launcher:packageName="com.instagram.android"
+            launcher:className="com.instagram.android.activity.MainTabActivity" />
+        <favorite
+            launcher:packageName="com.tripadvisor.tripadvisor"
+            launcher:className="com.tripadvisor.tripadvisor.TripAdvisorTripAdvisorActivity" />
+        <!-- AR0004FMMT zhangdi wx326716 20160705 begin -->
+        <!--AR0004HT5Q  liuchengfang/wx336716 20160719 begin -->
+        <favorite
+            launcher:packageName="com.huawei.gamebox.global"
+            launcher:className="com.huawei.gamebox.GameBoxActivity" />
+        <!--AR0004HT5Q  liuchengfang/wx336716 20160719 end -->
+    </folder>
+    <!--AR0003JQCS fanchuanwen/wx229747 20151228 begin-->
+    <folder
+        launcher:title="@string/folder_games"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:op="add">
+        <!-- AR0004FMMT zhangdi wx326716 20160629 begin -->
+        <favorite
+            launcher:packageName="com.gameloft.android.GloftANIF"
+            launcher:className="com.gameloft.android.GloftANIF.ActivityPopupDisclaimerAgreement" />
+        <!-- AR0004FMMT zhangdi wx326716 20160629 end -->
+        <favorite
+            launcher:packageName="com.gameloft.android.GloftPZOR"
+            launcher:className="com.gameloft.android.GloftPZOR.Start" />
+        <favorite
+            launcher:packageName="com.gameloft.android.GloftPDMF"
+            launcher:className="com.gameloft.android.GloftPDMF.Start" />
+        <favorite
+            launcher:packageName="com.gameloft.android.GloftDBMF"
+            launcher:className="com.gameloft.android.GloftDBMF.Start" />
+        <favorite
+            launcher:packageName="com.gameloft.android.GloftRF15"
+            launcher:className="com.gameloft.android.GloftRF15.Start" />
+        <favorite
+            launcher:packageName="com.gameloft.android.GloftSMIF"
+            launcher:className="com.gameloft.android.GloftSMIF.Start" />
+        <favorite
+            launcher:packageName="com.gameloft.android.GloftCRSM"
+            launcher:className="com.gameloft.android.GloftCRSM.Start" />
+        <favorite
+            launcher:packageName="com.gameloft.android.GloftBBPM"
+            launcher:className="com.gameloft.android.GloftBBPM.Start" />
+        <favorite
+            launcher:packageName="com.gameloft.android.GloftSMIM"
+            launcher:className="com.gameloft.android.GloftSMIM.Start" />
+        <favorite
+            launcher:packageName="com.gameloft.android.GloftAGMP"
+            launcher:className="com.gameloft.android.GloftAGMP.Start" />
+        <favorite
+            launcher:packageName="com.gameloft.android.ANMP.GloftTHHM"
+            launcher:className="com.gameloft.android.ANMP.GloftTHHM.XamarinMainActivity" />
+        <favorite
+            launcher:packageName="com.gameloft.android.GloftPGAW"
+            launcher:className="com.gameloft.android.GloftPGAW.Start" />
+        <!-- AR0003H10T   xiekaiming wx278091 20160106 begin -->
+        <!-- CRR apks update,packagenames changed -->
+        <favorite
+            launcher:packageName="com.gameloft.android.GloftAGMP"
+            launcher:className="com.gameloft.android.GloftAGMP.ActivityPopupDisclaimerAgreement"/>
+        <favorite
+            launcher:packageName="com.gameloft.android.GloftSCCA"
+            launcher:className="com.gameloft.android.GloftSCCA.Start"/>
+        <!-- AR0003H10T   xiekaiming wx278091 20160106 end -->
+        <!-- AR0003T1JM meishuangwen wx230765 20160215 begin -->
+        <favorite
+            launcher:packageName="com.gameloft.android.GloftSCRT"
+            launcher:className="com.gameloft.android.GloftSCRT.Start"/>
+        <favorite
+            launcher:packageName="com.gameloft.android.BFLL.GloftDBMF"
+            launcher:className="com.gameloft.android.BFLL.GloftDBMF.Start"/>
+        <!-- AR0003T1JM meishuangwen wx230765 20160215 end -->
+    </folder>
+    <!--AR0003JQCS fanchuanwen/wx229747 20151228 end-->
+    <favorite
+        launcher:packageName="com.android.quick.vmall"
+        launcher:className="com.android.quick.vmall.VmallActivity"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="add" />
+    <favorite
+        launcher:packageName="com.huawei.rjl.vmall"
+        launcher:className="com.huawei.rjl.vmall.MainActivity"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="add" />
+    <favorite
+        launcher:packageName="com.huawei.bone"
+        launcher:className="com.huawei.bone.ui.SplashActivity"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="add" />
+    <!-- AR0003JQCO   xiekaiming wx278091 20151217 begin -->
+    <favorite
+        launcher:packageName="com.huawei.android.Huaweiwear"
+        launcher:className="com.huawei.android.Huaweiwear.Bookmark_01"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="add"  />
+    <favorite
+        launcher:packageName="com.huawei.android.huaweiwearlink"
+        launcher:className="com.huawei.android.huaweiwearlink.HuaweiWearActivity"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="add"  />
+    <!-- AR0003T7JM   meishuangwen wx230765 20160217 end -->
+    <!-- AR0003JQCO   xiekaiming wx278091 20151217 end -->
+    <favorite
+        launcher:packageName="com.lifevibes.grouprecorder"
+        launcher:className="com.lifevibes.grouprecorder.EntryActivity"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="add" />
+    <!-- AR0003HC10   xiekaiming wx278091 20151208 end -->
+    <!-- AR0004D49D xiekaiming wx278091 20160531 begin -->
+    <favorite
+        launcher:packageName="cn.wps.moffice_eng"
+        launcher:className="cn.wps.moffice.documentmanager.PreStartActivity"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="add" />
+    <!-- AR0004D49D xiekaiming wx278091 20160531  end  -->
+</favorites>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2009, The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); 
+ * you may not use this file except in compliance with the License. 
+ * You may obtain a copy of the License at 
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0 
+ *
+ * Unless required by applicable law or agreed to in writing, software 
+ * distributed under the License is distributed on an "AS IS" BASIS, 
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. 
+ * See the License for the specific language governing permissions and 
+ * limitations under the License.
+ */
+-->
+
+<resources>
+    <!-- DTS2014062705274 fengximing/00202490 20140627 begin -->
+    <!-- example -->
+    <!-- <integer sms_port="8888"/> -->
+    <!-- <string  support ="https"/> -->
+    <!-- <boolean support_FT ="false"/> -->
+    <!-- <integer add_integer="1234"/> -->
+    <!-- <boolean add_boolean="true"/> -->
+    <string hw_ims_voip_toast_on="true"/>
+    <!-- DTS2014062705274 fengximing/00202490 20140627 end -->
+	<!-- DTS2014071402052  lizhihua/00212496  20140714 begin -->	
+    <string Platform="RCSAndrd"/>	
+    <!-- DTS2015043001543   lizhihua/00212496  20150430 begin -->
+    <integer VersionMajor="2"/>
+    <!-- DTS2015043001543   lizhihua/00212496  20150430 end -->
+    <integer VersionMinor="0"/>
+    <!-- DTS2014071402052  lizhihua/00212496  20140714 end -->
+	<!-- DTS2014080105624   lizhihua/00212496  20140801 begin -->
+	<boolean beta_support ="false"/>
+    <!-- DTS2014080105624   lizhihua/00212496  20140801 end -->	
+	<!-- DTS2014091204969    lizhihua/00212496  20140912 begin -->
+    <!--   DTS2015032803478      lizhihua/00212496  20150403 begin -->
+    <string dm_ip=""/>
+    <!--   DTS2015032803478      lizhihua/00212496  20150403 begin -->
+    <string dm_port="80"/>
+	<string dm_http_port="80"/>
+    <string dm_https_port="443"/>
+    <string dm_mode="2"/>
+    <string ims_ip="72.10.10.10"/>
+    <string ims_port="5060"/>
+    <string ims_domain="prepro.rcse.ims.vodafone.es"/> 
+    <!-- DTS2014091204969    lizhihua/00212496  20140912 end-->
+    <!-- DTS2014092402872    hekan/00293378  20140924 begin-->
+    <string CONFIG_MAJOR_MULTI_DEV="1"/> 
+    <string CONFIG_MAJOR_GROUP_DEPARTED="1"/> 
+    <string CONFIG_MAJOR_IM_USE_BASE64="0"/> 
+    <string CONFIG_MAJOR_CPIM_ANONYMOUS="1"/> 
+    <!-- DTS2014092402872    hekan/00293378  20140924 end-->
+    <!--DTS2014093007537 wufumin/00212530 20140930 begin -->
+    <!-- DTS2014111300017 wangchao/00221726 20141113 begin -->
+    <!-- DTS2014111300017 wangchao/00221726 20141126 begin -->
+    <!-- DTS2014111300017 denghuachang/00204688 20141203 begin -->
+    <!-- DTS2014111300017 denghuachang/00204688 20141203 end -->
+    <!-- DTS2014111300017 wangchao/00221726 20141126 end -->
+    <!-- DTS2014111300017 wangchao/00221726 20141113 end -->
+    <!--DTS2014093007537 wufumin/00212530 20140930 end -->
+    <!--DTS2014092810228 hekan/00293378 20141015 begin-->
+    <string CONFIG_MAJOR_GROUP_REJOIN_WITH_RECIPIENT_LIST="0"/> 
+    <!--DTS2014092810228 hekan/00293378 20141015 begin-->
+    <!-- DTS2014101406690    wufumin/00212530 20141016 begin -->
+    <boolean GSMA_KEEP_RESUME_SWITCH ="true"/>
+    <!-- DTS2014101406690    wufumin/00212530 20141016  end-->
+    <!-- DTS2014103005334 wangchao/00221726 20141030 begin -->
+    <string CONFIG_MAJOR_NAT_KEEP_ALIVE ="0"/>
+    <!-- DTS2014103005334 wangchao/00221726 20141030  end-->
+    <!-- DTS2014111107422 wangchao/00221726 20141112 begin -->
+    <string CONFIG_MAJOR_GROUP_IDLE_EXIT_SEND_BYE ="0"/>
+    <!-- DTS2014111107422 wangchao/00221726 20141112 end -->
+    <!-- DTS2014111300017 wangchao/00221726 20141113 begin -->
+    <string CONFIG_MAJOR_GSMA_HDR_CHECK ="1"/>
+    <string CONFIG_MAJOR_TYPE_KEEP_ALIVE_RSP_TIMER_LEN ="0"/>
+    <!-- DTS2014111300017 denghuachang/00204688 20141203 begin -->
+    <!-- DTS2014111300017 denghuachang/00204688 20141203 end -->
+    <!-- DTS2014111300017 wangchao/00221726 20141113 end -->
+    <!-- DTS2014121000106  huxinliang/hwx225297 20150403 begin -->
+    <!-- DTS2014112701272 huxinliang/hwx225297 20141127 begin -->
+    <!-- DTS2014112701272 huxinliang/hwx225297 20141127 end -->
+    <!-- DTS2014121000106  huxinliang/hwx225297 20150403 end -->
+    <!-- DTS2014111901823 wangyuguo/202790 20141201 begin.-->
+    <string CONFIG_MAJOR_SUPT_VIDEO_CODEC = "no" />
+    <!-- DTS2014111901823 wangyuguo/202790 20141201 end.-->
+    <!-- DTS2014121301483 hekan/00293378 20141213 begin -->
+    <string CONFIG_THUMBNAIL_ICON = "true" />
+    <!-- DTS2014121301483 hekan/00293378 20141213 end -->
+    <!-- DTS2015020301423  zhangfuyao/wx236980 20150202 begin -->
+    <!-- DTS2015060308382 gongjinbing wx283190 20150603 begin -->
+    <string show_rcs_disconnect_notify_in_MMS = "false" />
+    <!-- DTS2015060308382 gongjinbing wx283190 20150603 end -->
+    <!-- DTS2015020301423  zhangfuyao/wx236980 20150202 end -->
+    <!-- DTS2015011908493 hekan 00293378 20150205 begin -->
+    <integer group_invit_auto_accept_switcher="1"/>
+    <!-- DTS2015011908493 hekan 00293378 20150205 end -->
+    <!-- DTS2014092907024 wangyuguo/202790 20141231 begin.-->
+    <string CONFIG_CUST_PARA_ENABLE_ALL_LOG = "yes" />
+    <!-- DTS2014092907024 wangyuguo/202790 20141231 end.-->
+    <!-- DTS2015022502072 chenlong/wx236603 20150312 begin -->
+    <!-- DTS2015032602580 chenlong/wx236603 20150326 begin -->
+    <!-- DTS2015040106968 chenlong/wx236603 20150401 begin -->
+    <string huawei_rcs_vdf_user_treaty = "true" />
+    <!-- DTS2015040106968 chenlong/wx236603 20150401 end -->
+    <!-- DTS2015032602580 chenlong/wx236603 20150326 end -->
+    <!-- DTS2015022502072 chenlong/wx236603 20150312 end -->
+    <!-- DTS2015030905107 wangchao/00221726 20150310 begin -->
+    <!-- DTS2015040209767 zhaotao/00211166 20150402 begin -->
+    <string CONFIG_RCS_USER_GUIDE_ENABLE = "1" />
+    <!-- DTS2015040209767 zhaotao/00211166 20150402 end -->
+    <!-- DTS2015030905107 wangchao/00221726 20150310 end -->
+    <!-- DTS2015031005893 denghuachang/00204688 20150310 begin -->
+    <!-- DTS2015040106968 chenlong/wx236603 20150401 begin -->
+    <string CONFIG_GROUPCHAT_NICKNAME_ENABLE = "1" />
+    <!-- DTS2015040106968 chenlong/wx236603 20150401 end -->
+    <!-- DTS2015031005893 denghuachang/00204688 20150310 end -->
+    <!-- DTS2015030301282 liufei/lwx220115 20150316 begin -->
+    <string CONFIG_RCS_GRACE_UNDELIVERED_FLAG="true"/>
+    <!-- DTS2015030301282 liufei/lwx220115 20150316 end -->
+    <!-- DTS2015040308804 wubaoqing/00221728 20150403 begin -->
+    <!-- DTS2015040308804 wubaoqing/00221728 20150403 end -->
+    <!-- DTS2015031702730 tongxiao/00220175 20150318 begin -->
+    <!-- DTS2015040209767 zhaotao/00211166 20150402 begin -->
+    <string is_show_undelivered_icon="true"/>
+    <!-- DTS2015040209767 zhaotao/00211166 20150402 end -->
+    <!-- DTS2015031702730 tongxiao/00220175 20150318 end -->
+    <!-- DTS2015032407623 tongxiao/00220175 20150325 begin -->
+    <!-- DTS2015040209767 zhaotao/00211166 20150402 begin -->
+    <string is_enable_group_silentmode="true"/>
+    <!-- DTS2015040209767 zhaotao/00211166 20150402 end -->
+    <!-- DTS2015032407623 tongxiao/00220175 20150325 end -->
+    <!-- DTS2014121000106  huxinliang/hwx225297 20141212 begin -->
+    <!-- DTS2015042801414  huxinliang/hwx225297 20150428 begin -->
+    <string is_location_enable_cust = "false" />
+    <!-- DTS2015042801414  huxinliang/hwx225297 20150428 end -->
+    <!-- DTS2014121000106  huxinliang/hwx225297 20141212 end -->
+    <!-- DTS2015040303255 wanglei/00217099 20150402 begin -->
+    <string CONFIG_GSMA_IMAGE_SHARE_COMPRESS="true"/>
+    <boolean INCOMING_FT_CHANGE_MODE="true"/>
+    <!-- DTS2015040303255 wanglei/00217099 20150402 end -->
+    <!-- DTS2015033104930  wubaoqing/w00221728 20150402 begin -->
+    <string once_again_login_mode = "3" />
+    <!-- DTS2015033104930  wubaoqing/w00221728 20150402 end -->
+    <!-- DTS2015032604846  liufei/wx220115 20150401 begin -->
+    <string CONFIG_RCS_POPUP_WHEN_UNDELIVERED="false"/>
+    <!-- DTS2015032604846  liufei/wx220115 20150401 end -->
+    <!-- DTS2015032406260 yanyongjun/00293352 20150403 begin -->
+    <string CONFIG_GROUPCHAT_MEMBER_TOPIC_ENABLE="1"/>
+    <!-- DTS2015032406260 yanyongjun/00293352 20150403 end -->
+    <!-- DTS2015040106968 ouyangming/00205980 20150401 begin -->
+    <string hw_rcs_contact_icon_on="false"/>
+    <string support_capability_validity="true"/>
+    <!-- DTS2015040106968 ouyangming/00205980 20150401 end -->
+    <!-- DTS2015040106968 chenlong/wx236603 20150401 begin -->
+    <boolean VDF_FEATURE_FOR_SWITCH_JOYNCLIENT = "true"/>
+    <!-- DTS2015040106968 chenlong/wx236603 20150401 end -->
+    <!--DTS2015030506891 chenlong/wx236603 20150411 begin -->
+    <boolean ui_order_support = "false"/>
+    <!--DTS2015030506891 chenlong/wx236603 20150411 end -->
+    <!-- DTS2015041705379 yanyongjun/00293352 20150423 begin -->
+    <string CONFIG_MAJOR_DELAY_BROADCAST_FAILURE ="1"/>
+    <!-- DTS2015041705379 yanyongjun/00293352 20150423 end -->
+    <!-- DTS2015013004926   lizhihua/00212496  20150512 begin -->
+    <!-- DTS2015060900596   lizhihua/00212496  20150609 begin -->
+    <!-- DTS2015060900596   lizhihua/00212496  20150609 end -->
+    <!-- DTS2015013004926   lizhihua/00212496  20150512 end -->
+   <!--DTS2015042706070 gongjinbing/wx283190 20150527 begin -->
+   <boolean mms_disconnected_notify_enable = "true"/>
+   <!--DTS2015042706070 gongjinbing/wx283190 20150527 end -->
+    <!--DTS2015042208922 dingyu/00220196 20150601 begin -->
+    <integer RCS_VIDEO_SHARE_TIMEOUT_LIMIT = "15"/>
+    <!--DTS2015042208922 dingyu/00220196 20150601 end -->
+    <!-- DTS2015060808357  huxinliang/hwx225297 20150609 begin -->
+    <string is_support_ft_outdate = "false" />
+    <!-- DTS2015060808357  huxinliang/hwx225297 20150609 end -->
+</resources>
+

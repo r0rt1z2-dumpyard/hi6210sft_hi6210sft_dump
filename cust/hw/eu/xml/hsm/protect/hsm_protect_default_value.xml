@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<!-- DTS2015061905938 wx275179 20150720 begin -->
+<package name="fr.freemobile.android.vvm" controlled="true" check="true"/>
+<!-- DTS2015061905938 wx275179 20150720 end -->
+<!-- AR0003BM7Q xiekaiming wx278091 20151120 begin -->
+<package name="com.facebook.katana" controlled="true" check="true" />
+<package name="com.twitter.android" controlled="true" check="true" />
+<!-- AR0003BM7Q xiekaiming wx278091 20151120 end -->
+<!-- AR0003JJFC meishuangwen wx230765 20160303 begin -->
+<package name="com.sfr.android.vvm" controlled="true" check="true" />
+<package name="com.sfr.android.mobiletv" controlled="true" check="true" />
+<!-- AR0003JJFC meishuangwen wx230765 20160303 end -->
+<!-- AR0003T1JM zhoujunli zwx227427 20160214 begin -->
+<!-- AR0004CVU5 zhangdi wx326716 20160518 begin -->
+<!-- AR0006R7I5 zhangdi wx326716 20161024 begin -->
+<package name="com.opera.browser" controlled="true" check="true" />
+<package name="com.opera.preinstall" controlled="true" check="true" />
+<!-- AR0006R7I5 zhangdi wx326716 20161024 end -->
+<!-- AR0004FMMT zhangdi wx326716 20160629 begin -->
+<package name="com.shazam.android" controlled="true" check="true" />
+<package name="com.instagram.android" controlled="true" check="true" />
+<package name="com.sl.slc" controlled="true" check="true" />
+<!-- AR0004FMMT zhangdi wx326716 20160629 end -->
+<!-- AR0004CVU5 zhangdi wx326716 20160518 end -->
+<package name="deezer.android.app" controlled="true" check="true" />
+<package name="com.deezer.android.partner" controlled="true" check="true" />
+<package name="com.todoist" controlled="true" check="true" />
+<!-- AR0003T1JM zhoujunli zwx227427 20160214 end -->
+<!-- AR0003U9JG zhoujunli zwx227427 20160224 begin -->
+<package name="com.huawei.android.ntp" controlled="true" check="true" />
+<!-- AR0003U9JG zhoujunli zwx227427 20160224 end -->
+<!-- DTS2016071901822 xiekaiming wx278091 20160719 begin -->
+<package name="com.tfsolutions.weatherlove" controlled="true" check="true" />
+<!-- DTS2016071901822 xiekaiming wx278091 20160719  end  -->
+<!-- AR0004I28V zhangdi wx326716 20160719 begin -->
+<package name="com.hutchison3g.threeintouch" controlled="true" check="true" />
+<!-- AR0004I28V zhangdi wx326716 20160719 end -->
+<!-- DTS2016042507550 xiekaiming wx278091 20160727 begin -->
+<package name="com.google.android.calendar" controlled="true" check="true" />
+<!-- DTS2016042507550 xiekaiming wx278091 20160727 end -->
+</resources>

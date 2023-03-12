@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<!--
+     bookmarks_config.xml is used to config some setting information, for example,
+     homepage and bookmarks.
+     Homepage format:
+     <homepage url="http://www.google.com" />
+     Which must begin with tag "homepage", with "url", which can not be changed
+
+     bookmark format:
+     <bookmark title="test" url="www.test1.com"/>
+     Which must begin with tag "bookmark", with "title" and "url", which can not be changed
+
+-->
+<!-- AR0003TIH6 wx335113 2016/7/4 created-->
+<browser_config version="1">
+    <homepage mccmnc="21403">http://www.google.com</homepage>
+    <homepage mccmnc="21401">http://miweb.vodafone.es</homepage>
+    <homepage mccmnc="21404">http://movil.yoigo.es</homepage>
+    <homepage mccmnc="21405">http://www.google.com</homepage>
+    <homepage mccmnc="21407">http://emocion.terra.es</homepage>
+    <homepage mccmnc="26001">http://m.plus.pl</homepage>
+    <homepage mccmnc="26006">http://m.play.pl</homepage>
+    <homepage mccmnc="23210">http://mobile.drei.at/redirect/bm_planet3</homepage>
+    <homepage mccmnc="23205">http://mobile.drei.at/redirect/bm_planet3</homepage>
+    <homepage mccmnc="23002">http://m.o2mobil.cz/</homepage>
+    <homepage mccmnc="26207">http://www.google.de/</homepage>
+    <homepage mccmnc="20815">http://mobile.free.fr</homepage>
+    <homepage mccmnc="23433">http://www.google.co.uk</homepage>
+    <homepage mccmnc="23434">http://www.google.co.uk</homepage>
+    <homepage mccmnc="23486">http://www.google.co.uk</homepage>
+    <homepage mccmnc="23430">http://www.google.co.uk</homepage>
+    <homepage mccmnc="23431">http://www.google.co.uk</homepage>
+    <homepage mccmnc="23432">http://www.google.co.uk</homepage>
+    <!--AR0008VEKA jiangxingling/wx343116 20170218 begin-->
+    <homepage mccmnc="23415">http://start.vodafone.com/ssp/homepage/UK?source=embed</homepage>
+    <!--AR0008VEKA jiangxingling/wx343116 20170218 end-->
+    <homepage mccmnc="23410">http://www.google.co.uk</homepage>
+    <homepage mccmnc="23420">http://www.google.co.uk</homepage>
+    <homepage mccmnc="21890">https://bhmobile.bhtelecom.ba</homepage>
+    <homepage mccmnc="21803">http://www.hteronet.ba</homepage>
+    <homepage mccmnc="21805">http://wap.mtel.ba</homepage>
+    <homepage mccmnc="28401">https://mtel.bg/</homepage>
+    <homepage mccmnc="22802">http://m.google.ch</homepage>
+    <!--AR0008VEKA jiangxingling/wx343116 20170218 begin-->
+    <homepage mccmnc="26801">http://myweb.vodafone.pt</homepage>
+    <!--AR0008VEKA jiangxingling/wx343116 20170218 end-->
+    <homepage mccmnc="26806">http://www.google.pt</homepage>
+    <homepage mccmnc="26803">http://www.google.pt</homepage>
+    <homepage mccmnc="22201">http://www.google.it</homepage>
+    <!--AR0004J002 zhoufan/zWX335113 20160729 begin-->
+    <homepage mcc="222:">http://www.google.it</homepage>
+    <homepage mcc="257:">http://www.huawei.by</homepage>
+    <homepage mcc="250:">http://shop.huawei.ru/?utm_campaign=vendor_preinstall&amp;utm_source=android_browser&amp;utm_medium=redirect&amp;utm_content=link</homepage>
+    <!--AR0004J002 zhoufan/zWX335113 20160729 end-->
+    <!--AR0004J5FR zhoufan/zWX335113 20160729 begin-->
+    <homepage mccmnc="22801">http://mob.bluewin.ch</homepage>
+    <!--AR0004J5FR zhoufan/zWX335113 20160729 end-->
+    <!--AR0004J002 zhoufan/zWX335113 20160729 begin-->
+    <!--AR0004JO2T zhoufan/zWX335113 20161012 begin-->
+    <homepage mcc="228:">http://www.google.ch</homepage>
+    <!--AR0004JO2T zhoufan/zWX335113 20161012 end-->
+    <!--AR0004J002 zhoufan/zWX335113 20160729 end-->
+    <homepage mccmnc="21432">http://tu.tuenti.com</homepage>
+    <homepage mccmnc="20601">http://www.proximus.be</homepage>
+    <!--AR0004JO2T zhoufan/zWX335113 20161117 begin-->
+    <homepage mccmnc="20820">http://portail.bouyguestelecom.fr</homepage>
+    <!--AR0004JO2T zhoufan/zWX335113 20161117 end-->
+    <!--DTS2016102004079 zhoufan/zWX335113 20161021 begin-->
+    <homepage mccmnc="65201">http://www.myspot.mascom.bw</homepage>
+    <!--DTS2016102004079 zhoufan/zWX335113 20161021 end-->
+    <!--AR0008VEKA jiangxingling/wx343116 20170218 begin-->
+    <homepage mccmnc="20404">http://start.vodafone.com/ssp/homepage/NL?source=embed</homepage>
+    <homepage mccmnc="23003">http://www.vodafone.cz/</homepage>
+    <homepage mccmnc="26202">http://live.vodafone.de/dr/cc</homepage>
+    <homepage mccmnc="27201">http://start.vodafone.com/ssp/homepage/IE</homepage>
+    <homepage mccmnc="20205">http://start.vodafone.com/ssp/homepage/GR</homepage>
+    <homepage mccmnc="21670">http://live.vodafone.com</homepage>
+    <homepage mccmnc="22601">http://live.vodafone.com</homepage>
+    <homepage mccmnc="27602">http://www.vodafone.al</homepage>
+    <homepage mccmnc="65501">http://live.vodacom.co.za</homepage>
+    <homepage mccmnc="28602">http://cep.vodafone.com.tr</homepage>
+    <homepage mccmnc="22210">http://start.vodafone.com/ssp/homepage/IT</homepage>
+    <!--AR0008VEKA jiangxingling/wx343116 20170218 end-->
+</browser_config >

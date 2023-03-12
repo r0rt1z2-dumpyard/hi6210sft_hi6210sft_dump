@@ -1,0 +1,1 @@
+/data/hw_init/cust/vodafone/si/app/HwBackup_Local/HwBackup_Local.apk

@@ -1,0 +1,13 @@
+###################################################
+## Add for version number config.                ##
+###################################################
+#DTS2016011507704 liuliang 00327023 20160115 begin
+ro.config.hw_volte_on=true
+ro.config.hw_ims_as_normal=true
+#DTS2016011507704 liuliang 00327023 20160115 end
+#DTS2016012109531 liuliang 00327023 20160127 begin
+ro.config.hw_volte_show_switch=false
+#DTS2016012109531 liuliang 00327023 20160127 end
+#DTS2016030709490 zhoujunhu/00358066 begin
+ro.config.attach_ip_type=IPPCSCF
+#DTS2016030709490 zhoujunhu/00358066 end

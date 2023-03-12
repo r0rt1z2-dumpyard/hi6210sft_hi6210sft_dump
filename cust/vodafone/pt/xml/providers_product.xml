@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- AR0002EVGA huqimeng/wx280357  20150910 create-->
+<providers_product>
+    <!--E-Mail -->
+    <!-- AR0003HQL1 wangqi wx205225 20160627 begin -->
+    <provider id="Vodafone Mail" label="Vodafone Mail" domain="vodafone.pt">
+        <incoming uri="pop3://pop.vodafone.pt:110"  username="$email" />
+        <outgoing uri="smtp://smtp.vodafone.pt:25" username="$email" />
+   </provider>
+    <provider id="Gmail" label="Gmail" domain="gmail.com">
+        <incoming uri="imap+ssl+://imap.gmail.com:993"  username="$email" />
+        <outgoing uri="smtp+ssl+://smtp.gmail.com:465" username="$email" />
+   </provider>
+    <provider id="Outlook" label="Outlook" domain="live.com">
+        <incoming uri="pop3+ssl+://pop-mail.outlook.com:995"  username="$email" />
+        <outgoing uri="smtp+tls+://smtp-mail.outlook.com:587" username="$email" />
+   </provider>
+    <!-- AR0003HQL1 wangqi wx205225 20160627 end -->
+</providers_product>

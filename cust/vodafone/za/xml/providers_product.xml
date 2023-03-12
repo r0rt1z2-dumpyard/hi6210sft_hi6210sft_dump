@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- AR0002EVGA huqimeng/wx280357  20150910 create-->
+<providers_product>
+    <provider id="Vodamail" label="Vodamail" domain="vodamail.co.za">
+        <incoming uri="imap://imap4.vodamail.co.za:143" username="$email"/>
+        <outgoing uri="smtp://smtp.vodacom.co.za:25" username="$email"/>
+        <incoming uri="pop3://pop3.vodamail.co.za:110" username="$email"/>
+        <outgoing uri="smtp://smtp.vodacom.co.za:25" username="$email"/>
+    </provider>
+</providers_product>

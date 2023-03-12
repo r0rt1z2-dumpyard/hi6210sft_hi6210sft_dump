@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2009, The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+-->
+
+<resources>
+    <!--******************************** 1.PROTOCOL TEAM BEGIN -->
+
+    <!--******************************** 1.PROTOCOL TEAM END -->
+    <!--******************************** 2.APP MANUFACTURE TEAM BEGIN -->
+
+    <!--******************************** 2.APP MANUFACTURE TEAM END -->
+    <!--******************************** 3.BASEAPP TEAM BEGIN -->
+
+    <!--******************************** 3.BASEAPP TEAM END -->
+    <!--******************************** 4.MULTI-MEDIA TEAM BEGIN -->
+
+    <!--******************************** 4.MULTI-MEDIA TEAM END -->
+    <!--******************************** 5.FRAMEWORK TEAM BEGIN -->
+
+    <!--******************************** 5.FRAMEWORK TEAM END -->
+    <!--******************************** 6.DATA SERVICE TEAM BEGIN -->
+
+    <!--******************************** 6.DATA SERVICE TEAM END -->
+    <!--******************************** 7.APPLET TEAM BEGIN -->
+
+    <!--******************************** 7.APPLET TEAM END -->
+    <!--******************************** 8.CUSTOM TEAM BEGIN -->
+    <!-- AR0002EVAS linneng wx296161 20150909 begin -->
+    <string settings.secure.location_providers_allowed=""/>
+    <!-- AR0002EVAS linneng wx296161 20150909 end -->
+    <!-- AR0003HQL0 linneng wx296161 20160113 begin -->
+    <string white_languages="ar,az,bg,bs,ca,cs,da,de,el,en,en_GB,es,es_419,et,eu,fi,fr,gl,he,hi,hr,hu,id,it,ja,ka,km,ko,lt,lv,mk,ms,my,my_ZG,nb,nl,pl,pt,pt_PT,ro,ru,si,sk,sl,sr_Latn,sv,th,tr,uk,ur,uz,vi,zh,zh_Hant,zh_Hant_TW"/>
+    <!-- AR0003HQL0 linneng wx296161 20160113 end -->
+    <!-- AR0002EVD6 huqimeng WX280357 20150909 begin-->
+    <integer hw_default_support_call_barring="1"/>
+    <!-- AR0002EVD6 huqimeng WX280357 20150909 end-->
+    <!-- AR0002EVDM huqimeng WX280357 20150909 begin-->
+    <integer hw_calllog_type="0"/>
+    <!-- AR0002EVDM huqimeng WX280357 20150909 end-->
+    <!-- AR0002EVGO huqimeng WX280357 20150909 begin-->
+    <string change_sort_by_lang="hu_HU:2,2" />
+    <!-- AR0002EVGO huqimeng WX280357 20150909 end-->
+    <!-- AR0002EVC8 guben WX296140 201500909 begin-->
+    <integer power_saving_on="0"/>
+    <!-- AR0002EVC8 guben WX296140 20150909 end-->
+    <!-- AR0002EVGA xiekaiming wx278091 20150909 begin -->
+    <bool settings.global.bluetooth_on="false"/>
+    <!-- AR0002EVGA xiekaiming wx278091 20150909 end   -->
+    <!-- AR0002EVEK wangqi wx205225 20150910 begin -->
+    <integer isShowNetworkType="0"/>
+    <!-- AR0002EVEK wangqi wx205225 20150910 end -->
+    <!-- AR0002K2BU wangqi wx205225 20150910 begin -->
+    <integer eas_default_check_interval="-2"/>
+    <!-- AR0002K2BU wangqi wx205225 20150910 end -->
+    <!-- AR0002EVGA qiujianxiong wx278092 20150910 begin -->
+    <integer settings.global.data_roaming="0"/>
+    <!-- AR0002EVGA qiujianxiong wx278092 20150910 end -->
+    <!-- AR0002EVBK  zhangfang WX207092 20150911 delete -->
+    <!-- <integer enable_always_allow_mms="0"> -->
+    <!-- AR0002EVBK  zhangfang WX207092 20150911 delete -->
+    <!-- AR0002EVCM xiekaiming wx278091 20150911 begin -->
+    <string isMuteIgnoreVolume="true"/>
+    <!-- AR0002EVCM xiekaiming wx278091 20150911 end   -->
+    <!-- AR0002EVCE huqimeng WX280357 20150911 begin-->
+    <string enable_sdn="true"/>
+    <!-- AR0002EVCE huqimeng WX280357 20150911 end-->
+    <!-- AR0003AUMD liujinjie 00293362 20151123 begin -->
+    <!-- DTS2016050504994 linneng wx296161 20160509 begin -->
+    <string wifi_notdel_notedit="VodafoneWiFi;Vodafone NL Wifi;Swisscom_Auto_Login;Vodacom.smallcell"/>
+    <!-- DTS2016050504994 linneng wx296161 20160509 end -->
+    <!-- AR0003AUMD liujinjie 00293362 20151123 end -->
+    <!-- AR0002EVC6 huqimeng WX280357 20150911 begin-->
+    <string hw_networkmode_preference="9,3,2,1"/>
+    <string hw_networkmode_gstyle="true"/>
+    <!-- AR0002EVC6 huqimeng WX280357 20150911 end-->
+    <!-- AR0002EVBA huqimeng WX280357 20150911 begin-->
+    <integer hw_default_support_fdn_invalid="1"/>
+    <!-- AR0002EVBA huqimeng WX280357 20150911 end-->
+    <!--AR0002EVDQ  zhangfang WX207092 20151120 begin-->
+    <integer settings.global.mobile_data="1"/>
+    <!--AR0002EVDQ  zhangfang WX207092 20151120 end-->
+    <!-- AR0002VTVM xiekaiming wx278091 20151106 begin -->
+    <integer settings.system.SmartModeStatus="0"/>
+    <!-- AR0002VTVM xiekaiming wx278091 20151106 end -->
+    <!-- AR0002EVGA qiujianxiong wx278092 20151103 begin -->
+    <!-- AR0003H035 zhangfang zWX207092 20160115 begin -->
+    <!-- AR0003VA2U zhangfang zWX207092 20160314 begin -->
+    <string plmn_esm_flag="20404,21401,23415,27201,23003,21910"/>
+    <!-- AR0003VA2U zhangfang zWX207092 20160314 end -->
+    <!-- AR0003H035 zhangfang zWX207092 20160115 end -->
+    <!-- AR0002EVGA qiujianxiong wx278092 20151103 end -->
+    <!-- AR0003AUMS xiekaiming wx278091 20151112 begin -->
+    <string show_oem_setup_wizard="true"/>
+    <!-- AR0003AUMS xiekaiming wx278091 20151112  end  -->
+    <!-- AR0003AUNE hwx319484 20151126 begin  -->
+    <string settings.system.time_12_24="24"/>
+    <!-- AR0003AUNE hwx319484 20151126 begin  -->
+    <!--AR0003O1VQ  zhangfang WX207092 20160114 begin-->
+    <string mpdn_plmn_matched_by_network="26202,20404,21401,26801,23415,22210,20601,20205,21670,23003,22601,21910,27402,28001,27602,29340,65501,28602,60202,53001,50503,22801,27801,23201,28401"/>
+    <!--AR0003O1VQ  zhangfang WX207092 20160114 end-->
+    <!--AR0003S32G qwx278092 20160220 begin-->
+    <string theme_no_online="false"/>
+    <!--AR0003S32G qwx278092 20160220 end-->
+    <!-- DTS2016031200516 wangqi wx205225 20160318 begin -->
+    <integer sim_number_length="20"/>
+    <!-- DTS2016031200516 wangqi wx205225 20160318 end -->
+    <!-- *DTS2016072808543 xiekaiming wx278091 20160805 begin -->
+    <string hw_not_dispaly_week="true"/>
+    <!-- *DTS2016072808543 xiekaiming wx278091 20160805  end  -->
+    <!-- AR0006JII9 chengkun/wx366800 20161024 begin-->
+    <string hw_theme_support_hwid="true"/>
+    <!-- AR0006JII9 chengkun/wx366800 20161024 end-->
+    <!-- AR0004KMJJ wangning/00227088 20161027 begin-->
+    <string list_Always_Send_Receive_Mms=""/>
+    <!-- AR0004KMJJ wangning/00227088 20161027 end-->
+    <!--DTS2017010908658 zhangjianru zWX379580 20170111 begin-->
+    <string list_roaming_open_area=""/>
+    <!--DTS2017010908658 zhangjianru zWX379580 20170111 end-->
+    <!--******************************** 8.CUSTOM TEAM END -->
+</resources>

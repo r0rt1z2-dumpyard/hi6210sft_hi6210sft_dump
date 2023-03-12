@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<favorites xmlns:launcher="http://schemas.android.com/apk/res/com.huawei.android.launcher">
+    <!-- AR0003AUH4 xiekaiming wx278091 20151227 begin -->
+    <!-- the 3rd screen -->
+    <!-- AR0003AUH4 xiekaiming wx278091 20160107 begin -->
+    <favorite
+        launcher:packageName="com.vodafone.mobiletv"
+        launcher:className="com.vodafone.mobiletv.Activity.SplashScreen"
+        launcher:container="Vodafone"/>
+    <!-- AR0003AUH4 xiekaiming wx278091 20160107 end -->
+    <favorite
+        launcher:packageName="pt.vodafone.tvnetvoz"
+        launcher:className="pt.vodafone.tvnetvoz.base.MainActivity"
+        launcher:container="Vodafone"/>
+    <favorite
+        launcher:packageName="com.innovagency.vodafonekiosk"
+        launcher:className="com.innovagency.vodafonekiosk.InstructionsActivity"
+        launcher:container="Vodafone"/>
+    <favorite
+        launcher:packageName="wit.matm"
+        launcher:className="wit.matm.Login"
+        launcher:container="Vodafone"/>
+    <!-- the 3rd screen -->
+    <!-- AR0003AUH4 xiekaiming wx278091 20151227 end -->
+</favorites>

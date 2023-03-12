@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<!-- AR0004JMLK xinglei wx368928 20160818 created -->
+<bookmarks_config version="1">
+    <optaoptb value="02276" bookmarks_folder_name="Vodafone">
+        <bookmarkitem title="News">http://vflive.de/news</bookmarkitem>
+        <bookmarkitem title="MusicDownloads">http://vflive.de/music</bookmarkitem>
+        <bookmarkitem title="Spiele">http://vflive.de/games</bookmarkitem>
+        <bookmarkitem title="Logos &amp; Designs">http://vflive.de/picturedownload</bookmarkitem>
+        <bookmarkitem title="Vodafone Webseite">http://m.vodafone.de</bookmarkitem>
+        <bookmarkitem title="Vodafone Start">http://start.vodafone.com/ssp/homepage/DE</bookmarkitem>
+    </optaoptb>
+    <optaoptb value="02528" bookmarks_folder_name="Vodafone">
+        <bookmarkitem title="My Vodafone">http://www.vodafone.nl/my</bookmarkitem>
+        <bookmarkitem title="Vodafone Start">http://start.vodafone.com/ssp/homepage/NL?source=embed</bookmarkitem>
+    </optaoptb>
+    <optaoptb value="02724" bookmarks_folder_name="Vodafone">
+<!-- AR0003H0D3 zhoufan wx335113 20161107 start -->
+        <bookmarkitem title="Vodafone Start">http://start.vodafone.com</bookmarkitem>
+<!-- AR0003H0D3 zhoufan wx335113 20161107 end -->
+        <bookmarkitem title="Mi Vodafone">http://m.vodafone.es</bookmarkitem>
+        <bookmarkitem title="Mi Web">http://miweb.vodafone.es</bookmarkitem>
+    </optaoptb>
+    <optaoptb value="02620" bookmarks_folder_name="Vodafone">
+        <bookmarkitem title="My Vodafone">https://my.vodafone.pt</bookmarkitem>
+        <bookmarkitem title="Vodafone Portugal">http://vodafone.pt</bookmarkitem>
+        <bookmarkitem title="Vodafone My Web">http://myweb.vodafone.pt</bookmarkitem>
+        <bookmarkitem title="Vodafone Start">https://start.vodafone.com/ssp/main/PT</bookmarkitem>
+        <bookmarkitem title="Vodafone Secure Net">http://securenet.vodafone.pt</bookmarkitem>
+    </optaoptb>
+    <optaoptb value="02826" bookmarks_folder_name="Vodafone">
+        <bookmarkitem title="Vodafone">http://www.vodafone.co.uk</bookmarkitem>
+        <bookmarkitem title="Vodafone Start">http://start.vodafone.com/ssp/homepage/UK?source=embed</bookmarkitem>
+    </optaoptb>
+    <optaoptb value="02372" bookmarks_folder_name="Vodafone">
+        <bookmarkitem title="My Vodafone">https://www.vodafone.ie/myv/services/login/index.jsp?redirect=/myv/index.jsp</bookmarkitem>
+        <bookmarkitem title="Vodafone Start">http://start.vodafone.com</bookmarkitem>
+        <bookmarkitem title="Vodafone Ireland">http://www.vodafone.ie</bookmarkitem>
+    </optaoptb>
+    <optaoptb value="02380" bookmarks_folder_name="Vodafone">
+        <bookmarkitem title="My Vodafone">http://my190.vodafone.it</bookmarkitem>
+        <bookmarkitem title="Apps">http://m.vodafone.it/pages/apps</bookmarkitem>
+        <bookmarkitem title="Vodafone">http://m.vodafone.it</bookmarkitem>
+    </optaoptb>
+    <optaoptb value="02056" bookmarks_folder_name="Vodafone">
+        <bookmarkitem title="Google">http://www.google.be</bookmarkitem>
+        <bookmarkitem title="Proximus">http://www.proximus.be</bookmarkitem>
+    </optaoptb>
+    <!-- DTS2016083002392 wangqi wx205225 20160831 begin -->
+    <optaoptb value="02756" bookmarks_folder_name="Swisscom">
+    <!-- DTS2016083002392 wangqi wx205225 20160831 end -->
+        <bookmarkitem title="Swisscom">http://www.swisscom.ch?campID=PRECONF_MOBDEV_BOOKM_SC</bookmarkitem>
+        <!-- DTS2017010404749 jiangxingling wx343116 20170105 begin -->
+        <bookmarkitem title="Swisscom Cockpit">http://cockpit.swisscom.ch</bookmarkitem>
+        <!-- DTS2017010404749 jiangxingling wx343116 20170105 end -->
+    </optaoptb>
+    <optaoptb value="02300" bookmarks_folder_name="Vodafone">
+        <bookmarkitem title="My Web">http://myweb.vodafone.gr</bookmarkitem>
+        <bookmarkitem title="Vodafone.gr">http://www.vodafone.gr</bookmarkitem>
+    </optaoptb>
+    <optaoptb value="02348" bookmarks_folder_name="Vodafone">
+        <bookmarkitem title="Live! 24/7">http://live.vodafone.com</bookmarkitem>
+        <bookmarkitem title="Zene">http://live247.hu/zene</bookmarkitem>
+        <bookmarkitem title="Hírek">http://live247.hu/hirek</bookmarkitem>
+        <bookmarkitem title="Sport">http://live247.hu/sport</bookmarkitem>
+        <bookmarkitem title="TV">http://live247.hu/filmek</bookmarkitem>
+        <bookmarkitem title="Chat">http://live247.hu/chat</bookmarkitem>
+        <bookmarkitem title="Alkalmazások">http://live247.hu/apps</bookmarkitem>
+        <bookmarkitem title="Játékok">http://live247.hu/jatek</bookmarkitem>
+        <bookmarkitem title="My Vodafone">http://live247.hu/myvodafone</bookmarkitem>
+        <bookmarkitem title="Kereső">http://live247.hu/kereso</bookmarkitem>
+    </optaoptb>
+    <optaoptb value="02203" bookmarks_folder_name="Vodafone">
+        <bookmarkitem title="Vodafone CZ">http://www.vodafone.cz/</bookmarkitem>
+    </optaoptb>
+    <optaoptb value="02642" bookmarks_folder_name="Vodafone">
+        <bookmarkitem title="Vodafone live!">http://live.vodafone.com</bookmarkitem>
+        <bookmarkitem title="Stiri">http://live.vodafone.com/news</bookmarkitem>
+        <bookmarkitem title="Sport">http://live.vodafone.com/sport</bookmarkitem>
+        <bookmarkitem title="TV Mobil">http://live.vodafone.com/tv</bookmarkitem>
+        <bookmarkitem title="Jocuri">http://live.vodafone.com/games</bookmarkitem>
+        <bookmarkitem title="Muzica">http://live.vodafone.com/music</bookmarkitem>
+        <bookmarkitem title="My Vodafone">https://m.vodafone.ro/index.htm?cid=mob-ro-trafficgeneration-bookmarktelefoane-msite</bookmarkitem>
+        <bookmarkitem title="Reîncarcare cartelă">https://m.vodafone.ro/mobil/reincarcare?mob-ro-reincarcaremobil-cartela</bookmarkitem>
+        <bookmarkitem title="Aplicatii Vodafone">https://m.vodafone.ro/aplicatii-mobil</bookmarkitem>
+        <bookmarkitem title="Cinemagia">http://m.cinemagia.ro</bookmarkitem>
+        <bookmarkitem title="Meteo Romania">http://vremea.meteoromania.ro</bookmarkitem>
+        <bookmarkitem title="0Salvamont">http://m.0salvamont.org</bookmarkitem>
+    </optaoptb>
+    <optaoptb value="02710" bookmarks_folder_name="Vodafone">
+        <bookmarkitem title="Vodacom">http://vodacom.mobi</bookmarkitem>
+        <bookmarkitem title="Music">http://live.vodafone.com/music</bookmarkitem>
+        <bookmarkitem title="Games">http://live.vodafone.com/games</bookmarkitem>
+        <bookmarkitem title="Chat">http://live.vodafone.com/chat</bookmarkitem>
+        <bookmarkitem title="Pictures">http://live.vodafone.com/pictures</bookmarkitem>
+        <bookmarkitem title="Sport">http://live.vodafone.com/sport</bookmarkitem>
+        <bookmarkitem title="News">http://live.vodafone.com/news</bookmarkitem>
+        <bookmarkitem title="Mobile TV">http://live.vodafone.com/tv</bookmarkitem>
+        <bookmarkitem title="Apps">http://vodacom.mobi/apps</bookmarkitem>
+    </optaoptb>
+    <optaoptb value="02792" bookmarks_folder_name="Vodafone">
+        <bookmarkitem title="Vodafone Start">http://vftr.co/start</bookmarkitem>
+        <bookmarkitem title="Vodafone Live">http://live.vodafone.com.tr</bookmarkitem>
+        <bookmarkitem title="Vodafone Forum">http://Forum.vodafone.com.tr</bookmarkitem>
+    </optaoptb>
+</bookmarks_config>

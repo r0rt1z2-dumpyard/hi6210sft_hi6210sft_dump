@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datainitializor>
+    <!-- AR0003TIF1 panyu/WX224526 20160602 begin -->
+    <cust mcc="214" mnc="07">
+        <contact>
+            <name>Activar Buzón Movistar</name>
+            <phone type="Mobile">22500</phone>
+        </contact>
+        <contact>
+            <name>At. Cliente (extranjero)</name>
+            <phone type="Mobile">+34699991004</phone>
+        </contact>
+        <contact>
+            <name>Atención al Cliente</name>
+            <phone type="Mobile">1004</phone>
+        </contact>
+        <contact>
+            <name>Atención Negocios</name>
+            <phone type="Mobile">900101010</phone>
+        </contact>
+        <contact>
+            <name>Emergencias</name>
+            <phone type="Mobile">112</phone>
+        </contact>
+        <contact>
+            <name>Inf. 11822</name>
+            <phone type="Mobile">11822</phone>
+        </contact>
+    </cust>
+    <!-- AR0003TIF1 panyu/WX224526 20160602 end -->
+</datainitializor>

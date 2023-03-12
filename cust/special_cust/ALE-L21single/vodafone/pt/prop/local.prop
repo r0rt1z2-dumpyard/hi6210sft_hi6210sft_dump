@@ -1,0 +1,20 @@
+###################################################
+## Add for version number config.                ##
+###################################################
+#DTS2016030401634 yijiangwen/00224419 20160408 begin
+ro.config.volumeSetToSilence=true
+#DTS2016030401634 yijiangwen/00224419 20160408 end
+#DTS2016030807485 lixian WX242782 20160415 begin
+show_oem_setup_wizard=false
+#DTS2016030807485 lixian WX242782 20160415 end
+#DTS2016011507704 lixian WX242782 20160509 begin
+ro.config.hw_volte_on=true
+ro.config.hw_ims_as_normal=true
+ro.config.attach_ip_type=IPV4V6PCSCF
+#DTS2016011507704 lixian WX242782 20160509 end
+#DTS2016012109531 lixian WX242782 20160509 begin
+ro.config.hw_volte_show_switch=false
+#DTS2016012109531 lixian WX242782 20160509 end
+#AR0004DPM2 wangqi wx205225 20160530 begin
+ro.config.hw_dialpad_hd_on=false
+#AR0004DPM2 wangqi wx205225 20160530 end

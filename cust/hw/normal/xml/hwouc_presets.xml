@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hwouc_presets version="1">
+    <!-- AR0008U4CI wwx367520 20170125 begin -->
+    <string name="phone_cota_uri">http://query.hicloud.com:80/sp_cloudcomm/v2/Check.action?latest=true</string>
+    <!-- AR0008U4CI wwx367520 20170125 end -->
+</hwouc_presets>

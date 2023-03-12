@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<!--
+     bookmarks_config.xml is used to config some setting information, for example,
+     homepage and bookmarks.
+     Homepage format:
+     <homepage url="http://www.google.com" />
+     Which must begin with tag "homepage", with "url", which can not be changed
+
+     bookmark format:
+     <bookmark title="test" url="www.test1.com"/>
+     Which must begin with tag "bookmark", with "title" and "url", which can not be changed
+-->
+<!-- AR0004EMLL wangqi wx205225 20160713 created -->
+<browser_config version="1">
+    <homepage optaoptb="02:276">http://live.vodafone.de/dr/cc</homepage>
+    <homepage optaoptb="02:528">http://start.vodafone.com/ssp/homepage/NL?source=embed</homepage>
+    <homepage optaoptb="02:724">http://miweb.vodafone.es</homepage>
+    <homepage optaoptb="02:620">http://myweb.vodafone.pt</homepage>
+    <homepage optaoptb="02:826">http://start.vodafone.com/ssp/homepage/UK?source=embed</homepage>
+    <homepage optaoptb="02:372">http://start.vodafone.com/ssp/homepage/IE</homepage>
+    <homepage optaoptb="02:380">http://start.vodafone.com/ssp/homepage/IT</homepage>
+    <homepage optaoptb="02:056">http://www.proximus.be</homepage>
+    <homepage optaoptb="02:756">http://mob.bluewin.ch</homepage>
+    <homepage optaoptb="02:300">http://start.vodafone.com/ssp/homepage/GR</homepage>
+    <homepage optaoptb="02:642">http://live.vodafone.com</homepage>
+    <!-- AR00090AAL jiangxingling wx343116 20170218 begin -->
+    <homepage optaoptb="02:710">http://live.vodacom.co.za</homepage>
+    <!-- AR00090AAL jiangxingling wx343116 20170218 end -->
+    <homepage optaoptb="02:203">http://www.vodafone.cz/</homepage>
+    <homepage optaoptb="02:008">http://www.vodafone.al</homepage>
+    <homepage optaoptb="02:348">http://live.vodafone.com</homepage>
+    <homepage optaoptb="02:792">http://cep.vodafone.com.tr</homepage>
+</browser_config>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<!-- AR0003AUH4  xiekaiming wx278091 20151203 begin -->
+<package name="com.wsandroid.suite.vodaemea"  controlled="true" check="true" />
+<package name="com.vodafone.sn.vpn"  controlled="true" check="true" />
+<package name="com.vodafone.vodafone360updates"  controlled="true" check="true" />
+<package name="com.vodafone.smhs"  controlled="true" check="true" />
+<package name="com.dropbox.android"  controlled="true" check="true" />
+<package name="at.mobilkom.android.a1apps"  controlled="true" check="true" />
+<package name="com.vodafone.accesorystore"  controlled="true" check="true" />
+<package name="ch.deindeal.android"  controlled="true" check="true" />
+<package name="hu.mito.android.vodafone"  controlled="true" check="true" />
+<package name="com.vodafone.directaccessories"  controlled="true" check="true" />
+<package name="com.vodafone.myaccessories"  controlled="true" check="true" />
+<package name="com.aff.index.main"  controlled="true" check="true" />
+<package name="com.zentity.vodafone"  controlled="true" check="true" />
+<package name="ro.mediadirect.android.seenow.phone"  controlled="true" check="true" />
+<package name="com.IconLauncher.Vlivelauncher1"  controlled="true" check="true" />
+<package name="ro.zonga.music"  controlled="true" check="true" />
+<!-- AR0003AUH4  xiekaiming wx278091 20151203 end -->
+<!-- AR0003AUH4  xiekaiming wx278091 20160224 begin -->
+<package name="com.amazon.mShop.android.shopping"  controlled="true" check="true" />
+<package name="com.amazon.kindle"  controlled="true" check="true" />
+<package name="com.ebay.mobile"  controlled="true" check="true" />
+<package name="com.appseleration.android.selfcare"  controlled="true" check="true" />
+<package name="de.vodafone.mobiletv"  controlled="true" check="true" />
+<package name="com.vodafone.android.app.introgreeting"  controlled="true" check="true" />
+<package name="com.appseleration.speedtest"  controlled="true" check="true" />
+<package name="com.vodafone.android"  controlled="true" check="true" />
+<package name="com.swisscom.myswisscom"  controlled="true" check="true" />
+<package name="ro.vodafone.mcare.android"  controlled="true" check="true" />
+<package name="cinemagia.mobile"  controlled="true" check="true" />
+<package name="za.co.vodacom.android.app"  controlled="true" check="true" />
+<package name="deezer.android.app"  controlled="true" check="true" />
+<package name="com.gameloft.android.Widget.Games"  controlled="true" check="true" />
+<package name="com.Vodacom.Apps1"  controlled="true" check="true" />
+<package name="digiops.vodacom.eschool"  controlled="true" check="true" />
+<package name="com.vouchercloud.android"  controlled="true" check="true" />
+<package name="at.mobilkom.android.a1app"  controlled="true" check="true" />
+<package name="at.mobilkom.android.meina1"  controlled="true" check="true" />
+<package name="al.myvodafone.android"  controlled="true" check="true" />
+<package name="be.belgacom.hello"  controlled="true" check="true" />
+<package name="es.vodafone.mobile.mivodafone"  controlled="true" check="true" />
+<package name="it.vodafone.my190"  controlled="true" check="true" />
+<package name="wit.matm"  controlled="true" check="true" />
+<package name="com.vodafone.mobiletv"  controlled="true" check="true" />
+<package name="pt.vodafone.tvnetvoz"  controlled="true" check="true" />
+<package name="com.innovagency.vodafonekiosk"  controlled="true" check="true" />
+<package name="pt.vodafone.bilheteira"  controlled="true" check="true" />
+<package name="com.vodafone.mCare"  controlled="true" check="true" />
+<package name="com.joelapenna.foursquared"  controlled="true" check="true" />
+<package name="com.spotify.music"  controlled="true" check="true" />
+<package name="com.VodafoneIreland.MyVodafone"  controlled="true" check="true" />
+<package name="com.myvodafone.android"  controlled="true" check="true" />
+<!-- AR0003AUH4  xiekaiming wx278091 20160224 end -->
+<!-- AR0003O1VO  qwx278092 20160126 begin -->
+<package name="com.whatsapp"  controlled="true" check="true"/>
+<!-- AR0003O1VO  qwx278092 20160126 end -->
+<!-- AR0003V814 xiekaiming wx278091 20160416 begin -->
+<package name="com.swisscom.scappslauncher" controlled="true" check="true" />
+<package name="com.swisscom.swisscomcockpit" controlled="true" check="true" />
+<package name="ch.local.android" controlled="true" check="true" />
+<package name="ch.swisscom.bluewin" controlled="true" check="true" />
+<!-- AR0003V814 xiekaiming wx278091 20160416  end  -->
+<!-- AR0003V9VM xiekaiming wx278091 20160513 begin -->
+<package name="za.maramedia.huaweiphone" controlled="true" check="true" />
+<!-- AR0003V9VM xiekaiming wx278091 20160513  end  -->
+</resources>

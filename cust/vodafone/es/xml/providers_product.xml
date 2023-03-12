@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- AR0002EVGA huqimeng/wx280357  20150914 create-->
+<providers_product>
+    <!--E-Mail -->
+    <provider id="Gmail" label="Gmail" domain="gmail.com">
+        <incoming uri="imap+ssl://imap.gmail.com:993" username="$email" />
+        <outgoing uri="smtp+ssl://smtp.gmail.com:465" username="$email" />
+    </provider>
+    <provider id="Yahoo! Mail" label="Yahoo! Mail" domain="correo.yahoo.es">
+        <incoming uri="imap+ssl://imap.mail.yahoo.com:993" username="$email" />
+        <outgoing uri="smtp+ssl://smtp.mail.yahoo.com:465" username="$email" />
+    </provider>
+    <provider id="Hotmail" label="Hotmail" domain="live.com">
+        <incoming uri="imap+ssl://imap-mail.outlook.com:993" username="$email" />
+        <outgoing uri="smtp+tls://smtp-mail.outlook.com:587" username="$email" />
+    </provider>
+</providers_product>

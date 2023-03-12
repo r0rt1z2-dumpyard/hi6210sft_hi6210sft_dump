@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+    <tag>
+        <apk>
+            /system/priv-app/CellBroadcastReceiver.apk;
+        <!-- DTS2016032307478 xiekaiming wx278091 20160326 begin -->
+            /system/app/HWID_For_TR_ZA.apk;
+        <!-- DTS2016032307478 xiekaiming wx278091 20160326  end  -->
+        </apk>
+        <restoreapk>
+            /system/app/OMACP.apk;
+        </restoreapk>
+    </tag>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+    <tag>
+       <apk>
+       /system/app/HwPushService.apk;
+       /system/app/HwHiSync.apk;
+       /system/app/HwUserExperience.apk;
+       /system/app/NQMS_Huawei.apk
+       </apk>
+      <restoreapk>
+      /system/priv-app/CellBroadcastReceiver.apk;
+      /system/priv-app/HwPhoneService.apk;
+      </restoreapk>
+    </tag>

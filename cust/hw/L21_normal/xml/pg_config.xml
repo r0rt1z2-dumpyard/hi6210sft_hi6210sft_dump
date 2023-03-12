@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Copyright (C) 2013 Huawei Inc.
+ * PG_Config
+ -->
+
+<pg_config version="1">
+    <!-- SW_GLOBAL_COMMON_071 begin -->
+    <bool name="packets_rrc">false</bool>
+    <!-- SW_GLOBAL_COMMON_071 end -->
+</pg_config>
+

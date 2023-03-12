@@ -1,0 +1,13 @@
+/data/dataapp/Deindeal_release_CH/Deindeal_release_CH.apk
+/data/dataapp/Deindeal_stub_release_CH/Deindeal_stub_release_CH.apk
+/data/dataapp/MySwisscom_CH/MySwisscom_CH.apk
+/data/dataapp/SwisscomApps_CH/SwisscomApps_CH.apk
+/data/dataapp/SwisscomCockpit_CH/SwisscomCockpit_CH.apk
+/data/dataapp/SwisscomiO_CH/SwisscomiO_CH.apk
+/data/dataapp/SwisscomTV_CH/SwisscomTV_CH.apk
+/data/dataapp/Amazon_Shopping_Global_CRR_CH/Amazon_Shopping_Global_CRR_CH.apk
+/data/dataapp/Local_CH/Local_CH.apk
+/data/dataapp/Swisscom_Bluewin_CH/Swisscom_Bluewin_CH.apk
+
+/data/dataapp/Todoist_VDF/Todoist_VDF.apk
+/data/dataapp/ZinioReader/ZinioReader.apk

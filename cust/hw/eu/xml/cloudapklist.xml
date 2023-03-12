@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<!--List of all cloudApk and its pkgName.
+     Need to add the pkgName into delPkgName tag if we don't want them.
+         Use semicolon if we want to del more than one pkg.If your mcc(iccNum) is not in the following list,
+         we use the "iccNum='-1'" for this mcc-->
+<no-permissions>
+    <!-- SW_GLOBAL_EUROPE_091 begin -->
+    <operator iccNum="202" delPkgName="com.android.voicedialer" />
+    <operator iccNum="204" delPkgName="com.android.voicedialer" />
+    <operator iccNum="206" delPkgName="com.android.voicedialer" />
+    <operator iccNum="208" delPkgName="com.android.voicedialer" />
+    <operator iccNum="212" delPkgName="com.android.voicedialer" />
+    <operator iccNum="213" delPkgName="com.android.voicedialer" />
+    <operator iccNum="214" delPkgName="com.android.voicedialer" />
+    <operator iccNum="216" delPkgName="com.android.voicedialer" />
+    <operator iccNum="218" delPkgName="com.android.voicedialer" />
+    <operator iccNum="219" delPkgName="com.android.voicedialer" />
+    <operator iccNum="220" delPkgName="com.android.voicedialer" />
+    <operator iccNum="222" delPkgName="com.android.voicedialer" />
+    <operator iccNum="226" delPkgName="com.android.voicedialer" />
+    <operator iccNum="228" delPkgName="com.android.voicedialer" />
+    <operator iccNum="230" delPkgName="com.android.voicedialer" />
+    <operator iccNum="231" delPkgName="com.android.voicedialer" />
+    <operator iccNum="232" delPkgName="com.android.voicedialer" />
+    <operator iccNum="234" delPkgName="com.android.voicedialer" />
+    <operator iccNum="235" delPkgName="com.android.voicedialer" />
+    <operator iccNum="238" delPkgName="com.android.voicedialer" />
+    <operator iccNum="240" delPkgName="com.android.voicedialer" />
+    <operator iccNum="242" delPkgName="com.android.voicedialer" />
+    <operator iccNum="244" delPkgName="com.android.voicedialer" />
+    <operator iccNum="246" delPkgName="com.android.voicedialer" />
+    <operator iccNum="247" delPkgName="com.android.voicedialer" />
+    <operator iccNum="248" delPkgName="com.android.voicedialer" />
+    <operator iccNum="250" delPkgName="com.android.voicedialer" />
+    <operator iccNum="255" delPkgName="com.android.voicedialer" />
+    <operator iccNum="257" delPkgName="com.android.voicedialer" />
+    <operator iccNum="259" delPkgName="com.android.voicedialer" />
+    <operator iccNum="260" delPkgName="com.android.voicedialer" />
+    <operator iccNum="262" delPkgName="com.android.voicedialer" />
+    <operator iccNum="266" delPkgName="com.android.voicedialer" />
+    <operator iccNum="268" delPkgName="com.android.voicedialer" />
+    <operator iccNum="270" delPkgName="com.android.voicedialer" />
+    <operator iccNum="272" delPkgName="com.android.voicedialer" />
+    <operator iccNum="274" delPkgName="com.android.voicedialer" />
+    <operator iccNum="276" delPkgName="com.android.voicedialer" />
+    <operator iccNum="278" delPkgName="com.android.voicedialer" />
+    <operator iccNum="280" delPkgName="com.android.voicedialer" />
+    <operator iccNum="282" delPkgName="com.android.voicedialer" />
+    <operator iccNum="283" delPkgName="com.android.voicedialer" />
+    <operator iccNum="284" delPkgName="com.android.voicedialer" />
+    <operator iccNum="286" delPkgName="com.android.voicedialer" />
+    <operator iccNum="288" delPkgName="com.android.voicedialer" />
+    <operator iccNum="290" delPkgName="com.android.voicedialer" />
+    <operator iccNum="292" delPkgName="com.android.voicedialer" />
+    <operator iccNum="293" delPkgName="com.android.voicedialer" />
+    <operator iccNum="294" delPkgName="com.android.voicedialer" />
+    <operator iccNum="295" delPkgName="com.android.voicedialer" />
+    <operator iccNum="297" delPkgName="com.android.voicedialer" />
+    <operator iccNum="340" delPkgName="com.android.voicedialer" />
+    <operator iccNum="400" delPkgName="com.android.voicedialer" />
+    <operator iccNum="401" delPkgName="com.android.voicedialer" />
+    <operator iccNum="425" delPkgName="com.android.voicedialer" />
+    <operator iccNum="428" delPkgName="com.android.voicedialer" />
+    <operator iccNum="434" delPkgName="com.android.voicedialer" />
+    <operator iccNum="436" delPkgName="com.android.voicedialer" />
+    <operator iccNum="437" delPkgName="com.android.voicedialer" />
+    <operator iccNum="438" delPkgName="com.android.voicedialer" />
+    <operator iccNum="547" delPkgName="com.android.voicedialer" />
+    <operator iccNum="901" delPkgName="com.android.voicedialer" />
+    <!-- SW_GLOBAL_EUROPE_091 end -->
+</no-permissions>

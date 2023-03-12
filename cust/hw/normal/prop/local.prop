@@ -1,0 +1,309 @@
+#############################################################################
+########"      __        __               _                     "############
+########"             / /_ _ _ __ _ __ (_)_ __   __ _         "############
+########"         / / / _` | '__| '_ | | '_  / _` |        "############
+########"         V  V / (_| | |  | | | | | | | | (_| |        "############
+########"         _/_/ __,_|_|  |_| |_|_|_| |_|__, |        "############
+########"                                         |___/         "############
+########"                                                       "############
+########"   ONLY DRIVER PROPS ALLOWED IN THIS SECTION BEGIN     "############
+
+
+########"                                                       "############
+########"                                                       "############
+########"   ONLY DRIVER PROPS ALLOWED IN THIS SECTION END       "############
+#############################################################################
+
+#############################################################################
+########"      __        __               _                     "############
+########"             / /_ _ _ __ _ __ (_)_ __   __ _         "############
+########"         / / / _` | '__| '_ | | '_  / _` |        "############
+########"         V  V / (_| | |  | | | | | | | | (_| |        "############
+########"         _/_/ __,_|_|  |_| |_|_|_| |_|__, |        "############
+########"                                         |___/         "############
+########"                                                       "############
+########"   ONLY PROTOCOL PROPS ALLOWED IN THIS SECTION BEGIN   "############
+
+
+########"                                                       "############
+########"                                                       "############
+########"   ONLY PROTOCOL PROPS ALLOWED IN THIS SECTION END     "############
+#############################################################################
+
+
+
+#############################################################################
+########"      __        __               _                     "############
+########"             / /_ _ _ __ _ __ (_)_ __   __ _         "############
+########"         / / / _` | '__| '_ | | '_  / _` |        "############
+########"         V  V / (_| | |  | | | | | | | | (_| |        "############
+########"         _/_/ __,_|_|  |_| |_|_|_| |_|__, |        "############
+########"                                         |___/         "############
+########"                                                       "############
+########"   ONLY APP TEAM PROPS ALLOWED IN THIS SECTION BEGIN   "############
+#####################################################################################
+######## 1.APP MANUFACTURE TEAM BEGIN
+###########1.1.MMI BEGIN
+
+###########1.1.MMI END
+
+###########1.2.PROJECT MENU BEGIN
+
+###########1.2.PROJECT MENU END
+
+###########1.3.RUN IN TEST BEGIN
+
+###########1.3.RUN IN TEST END
+######## 1.APP MANUFACTURE TEAM END
+#####################################################################################
+######## 2.BASEAPP TEAM BEGIN
+ro.config.show_full_month=true
+ro.config.keyguard_unusedata=true
+######## 2.BASEAPP TEAM END
+#####################################################################################
+######## 3.MULTI-MEDIA TEAM BEGIN
+
+######## 3.MULTI-MEDIA TEAM END
+#####################################################################################
+######## 4.FRAMEWORK TEAM BEGIN
+
+######## 4.FRAMEWORK TEAM END
+#####################################################################################
+######## 5.DATA SERVICE TEAM BEGIN
+
+######## 5.DATA SERVICE TEAM END
+#####################################################################################
+######## 6.APPLET TEAM BEGIN
+
+######## 6.APPLET TEAM END
+#####################################################################################
+######## 7.PRODUCT INFO BEGIN
+
+######## 7.PRODUCT INFO END
+#####################################################################################
+########"                                                       "############
+########"                                                       "############
+########"   ONLY APP TEAM PROPS ALLOWED IN THIS SECTION END     "############
+#############################################################################
+#####################################################################################
+######## 8.CUSTOM TEAM BEGIN
+# GLOBAL_5.0
+
+# PUBLIC begin
+ro.product.locale.language=en
+# SW_GLOBAL_COMMON_027 begin
+ro.product.locale.region=US
+# SW_GLOBAL_COMMON_027 end
+# PUBLIC end
+
+# DTS2015041802240 begin
+ro.config.hw_lock_emergency=true
+# DTS2015041802240 end
+
+# SW_GLOBAL_COMMON_030
+ro.config.dualsim_display=true
+ro.config.hw_hideSimIcon=false
+ro.config.hw_showSimName=true
+ro.config.utkShowIcon=true
+# SW_GLOBAL_COMMON_030
+
+# SW_GLOBAL_COMMON_027 begin
+ro.config.hw_allow_rs_mms=true
+# EMUI3.0
+#ro.config.hw_always_allow_mms=true
+ro.config.hw_always_allow_mms=0
+# EMUI3.0.5
+#AR0002GJKP begin
+#AR0002GJKP end
+# SW_GLOBAL_COMMON_027 end
+
+# SW_GLOBAL_COMMON_033 begin
+ro.config.hw_RemindWifiToPdp=false
+# SW_GLOBAL_COMMON_033 end
+
+# SW_GLOBAL_COMMON_046 & SW_GLOBAL_COMMON_057 begin
+ro.config.hw_simlock_retries=true
+# SW_GLOBAL_COMMON_046 & SW_GLOBAL_COMMON_057 end
+
+# SW_GLOBAL_COMMON_051 begin
+ro.config.hw.imeisv=true
+ro.config.hw_imei_sv_enable=true
+ro.config.hw_imei_sv_show_two=true
+# SW_GLOBAL_COMMON_051 end
+
+# SW_GLOBAL_COMMON_049 begin
+ro.config.hw_show_network_icon=true 
+# SW_GLOBAL_COMMON_049 end
+
+# SW_GLOBAL_COMMON_041 begin
+#ro.config.hw_lte_support:true(device support 4G) false(device unsupport 4G) Product cust
+ro.config.hw_3G_support=true
+ro.config.show_nw_mode=true
+# SW_GLOBAL_COMMON_041 end
+
+# SW_GLOBAL_COMMON_008 begin
+ro.config.hspap_hsdpa_open=1
+#Delete PN: DTS2016070608814, by z00290953, 2016/07/07
+# SW_GLOBAL_COMMON_008 end
+
+# SW_GLOBAL_COMMON_054 begin
+ro.config.attach_apn_enabled=true
+# SW_GLOBAL_COMMON_054 end
+
+# SW_GLOBAL_COMMON_050 begin
+ro.config.plmn_to_settings=true
+# SW_GLOBAL_COMMON_050 end
+
+# DTS2015031804338 begin
+ro.cellbroadcast.emergencyids=0-65534
+# DTS2015031804338 end
+
+# SW_GLOBAL_COMMON_034 begin
+ro.config.hw_support_ipcall=false
+ro.config.support_internetCall=false
+# SW_GLOBAL_COMMON_034 end
+
+ro.com.google.clientidbase.yt=android-huawei
+ro.com.google.clientidbase.am=android-huawei
+ro.com.google.clientidbase.gmm=android-huawei
+ro.com.google.clientidbase.ms=android-huawei
+# DTS2015091002155 add by xwx235590 begin
+ro.com.google.clientidbase=android-huawei
+# DTS2015091002155 add by xwx235590 end
+
+# AR0002GJHJ yexiaoyan 20150923 begin
+ro.config.hebrew_dialpad_show=true
+ro.config.tw_dialpad_show=true
+# AR0002GJHJ yexiaoyan 20150923 end
+
+# DTS2015101303338 shifalong/wx277905 20151014 begin
+ro.config.lte_show_northamerica=false
+# DTS2015101303338 shifalong/wx277905 20151014 end
+#huqimeng WX280357 20151021 begin
+ro.product.CustCVersion=C900
+#huqimeng WX280357 20151021 end
+
+# SW_GLOBAL_COMMON_053 begin
+ro.config.hw_support_vm_ecc=true
+ro.config.hw_ecc_with_sim_card=true
+# SW_GLOBAL_COMMON_053 end
+
+# DTS2015033000266 fengweiwei/wx214937 20151109 begin
+ro.config.ca_withoutcat=true
+# DTS2015033000266 fengweiwei/wx214937 20151109 end
+
+# DTS2015021202694 fengweiwei/wx214937 20151109 begin
+ro.config.hw_hidecallforward=false
+# DTS2015021202694 fengweiwei/wx214937 20151109 end
+
+# DTS2015040302654 fengweiwei/wx214937 20151109 begin
+ro.config.hw_rcm_cert=true
+# DTS2015040302654 fengweiwei/wx214937 20151109 end
+
+# AR00043VVP limeichuan/00218580 20160711 begin
+ro.config.nfc_ce_transevt=true
+# AR00043VVP limeichuan/00218580 20160711 end
+
+# DTS2015101501510 shifalong/wx277905 20151124 begin
+ro.config.wifi_country_code=true
+# DTS2015101501510 shifalong/wx277905 20151124 end
+
+# AR0003TIP8 wangfei/wx365252 20160614 begin
+ro.config.vm_prioritymode=2
+ro.config.hw_voicemail_sim=true
+ro.config.show_vmail_number=true
+# AR0003TIP8 wangfei/wx365252 20160614 end
+#BEGIN PN:DTS2016070703967, del lwx314662, 2016/7/12
+#ro.config.hw_use_browser_ua=http://wap1.huawei.com/uaprof/HUAWEI_%s_UAProfile.xml
+#END PN:DTS2016070703967, del lwx314662, 2016/7/12
+# DTS2016072204909  xiazhiqiao/wx320883 20160722 begin
+ro.config.hw_show_4G_Plus_icon=true
+# DTS2016072204909  xiazhiqiao/wx320883 20160722 end
+######## 8.CUSTOM TEAM END
+#####################################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

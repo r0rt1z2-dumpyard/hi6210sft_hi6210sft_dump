@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<logo_list displayimage="true">
+<!-- AR0002EVGA huqimeng/wx280357  20150910 create-->
+<!-- AR0003AUN3 huqimeng wx280357  20151228 begin-->
+<logo_item image="email_gmail_icon.png" value="@gmail.com" displayname="Gmail" />
+<logo_item image="email_default_icon.png" value="@gmail.com" displayname="Google Mail" />
+<logo_item image="email_default_icon.png" value="@vodafone.it" displayname="Vodafone.it" />
+<logo_item image="email_hotmail_icon.png" value="@hotmail.com" displayname="Hotmail.com" />
+<!-- DTS2016030704370 wangqi wx205225 20160323 begin -->
+<logo_item image="email_hotmail_icon.png" value="@hotmail.it" displayname="Hotmail.it" />
+<!-- DTS2016030704370 wangqi wx205225 20160323 end -->
+<logo_item image="email_yahoomail_icon.png" value="@yahoo.it" displayname="Yahoo.it" />
+<logo_item image="email_yahoomail_icon.png" value="@yahoo.com" displayname="Yahoo.com" />
+<logo_item image="email_default_icon.png" value="@email.it" displayname="Email.it" />
+<!-- AR0003HQL1 wangqi wx205225 20160627 deleted  -->
+<!-- AR0003AUN3 huqimeng wx280357  20151228 end-->
+</logo_list>

@@ -1,0 +1,10 @@
+/data/dataapp/HwRcsService/HwRcsService.apk
+/data/dataapp/RegionalPhone/RegionalPhone.apk
+/data/dataapp/HwPhoneService/HwPhoneService.apk,priv
+/data/dataapp/HwThemeManager/HwThemeManager.apk
+/data/dataapp/HwFileManager/HwFileManager.apk
+/data/dataapp/ChromeHomePage/ChromeHomePage.apk
+/data/dataapp/YouTube/YouTube.apk
+/data/dataapp/LatinImeGoogle/LatinImeGoogle.apk
+/data/dataapp/HwVAssistant/HwVAssistant.apk
+/data/dataapp/WebViewGoogle/WebViewGoogle.apk

@@ -1,0 +1,15 @@
+/data/dataapp/GroupRecorder/GroupRecorder.apk
+/data/dataapp/HwAllBackup_Local/HwAllBackup_Local.apk
+/data/dataapp/HwMirror/HwMirror.apk
+/data/dataapp/HwCompass/HwCompass.apk
+/data/dataapp/Mopria/Mopria.apk
+/data/dataapp/MopriaPrintService/MopriaPrintService.apk
+
+/data/dataapp/HuaweiWearable_Link/HuaweiWearable_Link.apk
+/data/dataapp/WPS/WPS.apk
+
+/data/dataapp/PlusOne/PlusOne.apk
+/data/dataapp/Books/Books.apk
+/data/dataapp/Newsstand/Newsstand.apk
+/data/dataapp/PlayGames/PlayGames.apk
+/data/dataapp/talkback/talkback.apk

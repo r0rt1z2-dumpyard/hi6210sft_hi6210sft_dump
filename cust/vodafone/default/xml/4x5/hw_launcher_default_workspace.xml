@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<favorites xmlns:launcher="http://schemas.android.com/apk/res/com.huawei.android.launcher">
+    <!-- AR0003AUH4 xiekaiming wx278091 20151227 begin -->
+
+    <!-- AR0003O1T1 xiekaiming wx278091 20160302 begin -->
+    <!-- mms and camera change place -->
+    <favorite
+        launcher:packageName="com.huawei.camera"
+        launcher:className="com.huawei.camera"
+        launcher:op="delete" />
+    <favorite
+        launcher:packageName="com.android.mms"
+        launcher:className="com.android.mms.ui.ConversationList"
+        launcher:container="-101"
+        launcher:screen="3"
+        launcher:x="0"
+        launcher:y="3"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="modify" />
+    <favorite
+        launcher:packageName="com.android.settings"
+        launcher:className="com.android.settings.HWSettings"
+        launcher:container="-100"
+        launcher:screen="1"
+        launcher:x="2"
+        launcher:y="4"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="insertinto" />
+    <favorite
+        launcher:packageName="com.android.gallery3d"
+        launcher:className="com.huawei.gallery.app.GalleryMain"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:x="0"
+        launcher:y="0"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="insertinto" />
+    <favorite
+        launcher:packageName="com.huawei.camera"
+        launcher:className="com.huawei.camera"
+        launcher:container="-100"
+        launcher:screen="1"
+        launcher:x="3"
+        launcher:y="4"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="insertinto" />
+
+    <!-- the 1st screen -->
+    <appwidget
+        launcher:packageName="com.vodafone.smhs"
+        launcher:className="com.vodafone.smhs.SMHSDashboardProvider"
+        launcher:container="-100"
+        launcher:screen="0"
+        launcher:x="0"
+        launcher:y="0"
+        launcher:spanX="4"
+        launcher:spanY="2"
+        launcher:op="insert"/>
+    <!-- the 1st screen -->
+    <!-- the 3rd screen -->
+    <favorite
+        launcher:packageName="com.lifevibes.grouprecorder"
+        launcher:className="com.lifevibes.grouprecorder.EntryActivity"
+        launcher:op="delete"/>
+    <favorite
+        launcher:packageName="com.huawei.health"
+        launcher:className="com.huawei.healthcloud.cardui.MainActivity"
+        launcher:op="delete" />
+    <folder
+        launcher:title="@string/folder_top_apps"
+        launcher:op="delete" />
+    <folder
+        launcher:title="@string/folder_tools"
+        launcher:op="delete" />
+    <favorite
+        launcher:packageName="com.huawei.health"
+        launcher:className="com.huawei.healthcloud.cardui.MainActivity"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="add" />
+    <favorite
+        launcher:packageName="com.android.stk"
+        launcher:className="com.android.stk.StkLauncherActivity"
+        launcher:op="delete" />
+    <favorite
+        launcher:packageName="com.android.stk"
+        launcher:className="com.android.stk.StkLauncherActivity2"
+        launcher:op="delete" />
+    <favorite
+        launcher:packageName="com.android.stk"
+        launcher:className="com.android.stk.StkLauncherActivity"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="add" />
+    <folder
+        launcher:title="@string/folder_tools"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:op="add" >
+        <favorite
+            launcher:packageName="com.huawei.hidisk"
+            launcher:className="com.huawei.hidisk.filemanager.FileManager"/>
+        <favorite
+            launcher:packageName="com.android.deskclock"
+            launcher:className="com.android.deskclock.AlarmsMainActivity"/>
+        <favorite
+            launcher:packageName="com.huawei.android.totemweather"
+            launcher:className="com.huawei.android.totemweather.WeatherHome"/>
+        <favorite
+            launcher:packageName="com.android.calculator2"
+            launcher:className="com.android.calculator2.Calculator"/>
+        <favorite
+            launcher:packageName="com.example.android.notepad"
+            launcher:className="com.example.android.notepad.NotePadActivity"/>
+        <favorite
+            launcher:packageName="com.android.soundrecorder"
+            launcher:className="com.android.soundrecorder.SoundRecorder"/>
+        <favorite
+            launcher:packageName="com.huawei.android.FMRadio"
+            launcher:className="com.huawei.android.FMRadio.FMRadioMainActivity"/>
+        <favorite
+            launcher:packageName="com.android.systemui"
+            launcher:className="com.android.systemui.flashlight.FlashlightActivity"/>
+        <favorite
+            launcher:packageName="com.android.hwmirror"
+            launcher:className="com.android.hwmirror.Mirror"/>
+        <!-- AR0003V9VM xiekaiming wx278091 20160318 begin -->
+        <favorite
+            launcher:packageName="com.huawei.android.remotecontroller"
+            launcher:className="com.huawei.android.remotecontroller.StartActivity"/>
+        <!-- AR0003V9VM xiekaiming wx278091 20160318  end  -->
+        <favorite
+            launcher:packageName="com.huawei.compass"
+            launcher:className="com.huawei.compass.MainActivity"/>
+        <favorite
+            launcher:packageName="com.huawei.KoBackup"
+            launcher:className="com.huawei.KoBackup.InitializeActivity"/>
+        <favorite
+            launcher:packageName="com.android.providers.downloads.ui"
+            launcher:className="com.android.providers.downloads.ui.DownloadList"/>
+
+    </folder>
+    <folder
+        launcher:title="@string/folder_top_apps"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:op="add" >
+        <favorite
+            launcher:packageName="cn.wps.moffice_eng"
+            launcher:className="cn.wps.moffice.documentmanager.PreStartActivity"/>
+        <favorite
+            launcher:packageName="com.todoist"
+            launcher:className="com.todoist.activity.HomeActivity"/>
+        <!--AR0008QOIJ  xiekaiming/wx278091 20170118 begin -->
+       <favorite
+            launcher:packageName="com.todoist.promotionupgrader"
+            launcher:className="com.todoist.promotionupgrader.WelcomeActivity" />
+        <!--AR0008QOIJ  xiekaiming/wx278091 20170118 end -->
+        <favorite
+            launcher:packageName="com.baseapp.eyeem"
+            launcher:className="com.baseapp.eyeem.Start"/>
+        <favorite
+            launcher:packageName="com.mobilesrepublic.appy"
+            launcher:className="com.mobilesrepublic.appy.SplashActivity"/>
+        <favorite
+            launcher:packageName="com.android.tv.quickhuaweiwear"
+            launcher:className="com.android.tv.quickhuaweiwear.QuickWear"/>
+        <!--AR0003V82D liuchengfang/wx336716 20160901 begin -->
+        <favorite
+            launcher:packageName="com.huawei.gamebox.global"
+            launcher:className="com.huawei.gamebox.GameBoxActivity" />
+        <!--AR0003V82D liuchengfang/wx336716 20160901 end -->
+    </folder>
+    <favorite
+        launcher:packageName="com.lifevibes.grouprecorder"
+        launcher:className="com.lifevibes.grouprecorder.EntryActivity"
+        launcher:op="delete"/>
+
+    <folder
+        launcher:title="Vodafone"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:op="add">
+        <favorite
+            launcher:packageName="com.vodafone.smhs"
+            launcher:className="com.vodafone.smhs.activities.HostActivity"/>
+        <favorite
+            launcher:packageName="com.wsandroid.suite.vodaemea"
+            launcher:className="com.mcafee.app.LauncherDelegateActivity" />
+        <favorite
+            launcher:packageName="com.vodafone.sn.vpn"
+            launcher:className="com.vodafone.sn.vpn.LoadingScreenActivity"/>
+        <favorite
+            launcher:packageName="com.vodafone.vodafone360updates"
+            launcher:className="com.vodafone.vodafone360updates.gui.activity.AllServicesActivity"/>
+        <favorite
+            launcher:packageName="com.dropbox.android"
+            launcher:className="com.dropbox.android.activity.DropboxBrowser"/>
+    </folder>
+   <folder
+        launcher:title="Lifestyle"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:op="add">
+        <favorite
+            launcher:packageName="com.amazon.kindle"
+            launcher:className="com.amazon.kindle.UpgradePage"/>
+        <favorite
+            launcher:packageName="com.amazon.mShop.android.shopping"
+            launcher:className="com.amazon.mShop.home.HomeActivity"/>
+        <favorite
+            launcher:packageName="deezer.android.app"
+            launcher:className="com.deezer.android.ui.activity.LauncherActivity"/>
+        <favorite
+            launcher:packageName="ch.deindeal.android"
+            launcher:className="ch.deindeal.android.activities.SplashScreenActivity"/>
+        <favorite
+            launcher:packageName="com.gameloft.android.Widget.Games"
+            launcher:className="com.gameloft.android.Widget.Games.Start"/>
+        <favorite
+            launcher:packageName="com.aff.index.main"
+            launcher:className="com.aff.index.index.FirstActivity"/>
+    </folder>
+    <favorite
+        launcher:packageName="com.vodafone.vodafone360updates"
+        launcher:className="com.vodafone.vodafone360updates.gui.activity.AllServicesActivity"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="add" />
+    <favorite
+        launcher:packageName="cn.wps.moffice_eng"
+        launcher:className="cn.wps.moffice.documentmanager.PreStartActivity"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="add" />
+    <!-- the 3rd screen -->
+    <!-- AR0003O1T1 xiekaiming wx278091 20160302 end -->
+    <!-- AR0003AUH4 xiekaiming wx278091 20151227 end -->
+</favorites>

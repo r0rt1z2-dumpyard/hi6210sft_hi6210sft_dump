@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apnReminderList version="1">
+    <!-- SW_GLOBAL_EUROPE_013 begin -->
+    <!-- AR0003AUL7 zhangfang zWX207092 20160122 begin -->
+    <!-- R0003O1UR zhangfang zWX207092 20160318 begin -->
+    <apnReminder plmn="23415" remindType="imsiChange" title="Please Choose your Tariff:">
+        <apnSetting
+            name="PAYG WAP"
+            apn="pp.vodafone.co.uk"
+            displayName="1 for PAYG WAP"
+            onsName="vodafone UK"
+            otherApns = "PAYG WAP:pp.vodafone.co.uk"
+            vmNumber="121"
+            vmTag="voicemail"
+        />
+        <apnSetting
+            name="Contract WAP"
+            apn="wap.vodafone.co.uk"
+            displayName="2 for Contract WAP"
+            onsName="vodafone UK"
+            otherApns = ""
+            vmNumber="121"
+            vmTag="voicemail"
+        />
+        <apnSetting
+            name="Sainsbury's PAYG"
+            apn="payg.mobilebysainsburys.co.uk"
+            displayName="3 for Sainsbury's"
+            onsName="Sainsbury's"
+            otherApns = ""
+            vmNumber="121"
+            vmTag="voicemail"
+        />
+        <apnSetting
+            name="Talkmobile Prepay"
+            apn="payg.talkmobile.co.uk"
+            displayName="1 for Talk Mobile Prepay"
+            onsName="Talkmobile"
+            otherApns = ""
+            vmNumber="121"
+            vmTag="voicemail"
+        />
+        <apnSetting
+            name="Talkmobile Contract"
+            apn="talkmobile.co.uk"
+            displayName="2 for Talk Mobile Postpay"
+            onsName="Talkmobile"
+            otherApns = ""
+            vmNumber="121"
+            vmTag="voicemail"
+        />
+    </apnReminder>
+    <!-- R0003O1UR zhangfang zWX207092 20160318 end -->
+    <!-- AR0003AUL7 zhangfang zWX207092 20160122 end -->
+    <!-- SW_GLOBAL_EUROPE_013 end -->
+</apnReminderList>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hwouc_presets version="1">
+    <!-- SW_GLOBAL_EUROPE_040 begin -->
+    <int name="download_limit_size">1</int>
+    <!--AR0003JJEN taozhipeng wx207097 20151224 begin-->
+    <string name="PLMN_cust_values">21401,0,false^20810,100,true</string>
+    <!--AR0003JJEN taozhipeng wx207097 20151224 end-->
+    <!-- SW_GLOBAL_EUROPE_040 end -->
+</hwouc_presets>

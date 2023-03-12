@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<virtualNets>
+    <!-- SW_GLOBAL_EUROPE_014 begin -->
+    <virtualNet hplmn="21403" virtual_net_rule="3" spn="Happy" ons_name="1:21403,21403,Happy,Happy;"></virtualNet>
+    <virtualNet hplmn="21403" virtual_net_rule="3" spn="CABLE movil" ons_name="1:21403,21403,CABLE movil,CABLE movil;"></virtualNet>
+    <!-- Europe-Common-V5.0-Added-78 begin -->
+    <virtualNet hplmn="21405" virtual_net_rule="3" spn="Pepephone" ons_name="1:21405,21407,Pepephone,Pepephone;"></virtualNet>
+    <!-- DTS2016061501988 fengweiwei/wx214937 20160629 begin -->
+    <virtualNet hplmn="21405" virtual_net_rule="3" spn="pepephone" ons_name="1:21405,21407,Pepephone,Pepephone;2:21405,21405,Pepephone,pepephone;"></virtualNet>
+    <virtualNet hplmn="21406" virtual_net_rule="3" spn="Eroski Movil" ons_name="1:21406,21401,Eroski Movil,Eroski Movil;"></virtualNet>
+    <!-- DTS2016061501988 fengweiwei/wx214937 20160629 end -->
+    <virtualNet hplmn="21405" virtual_net_rule="3" spn="ONO" ons_name="1:21405,21401,ONO,ONO;"></virtualNet>
+    <!-- Europe-Common-V5.0-Added-78 end -->
+    <!-- SW_GLOBAL_EUROPE_014 end -->
+    <!-- SW_GLOBAL_EUROPE_080 begin -->
+    <virtualNet hplmn="23430" virtual_net_rule="2" gid1="0x28" gid_mask="0xFF" ons_name="1:23430,23430,Virgin,Virgin;1:23430,23431,Virgin,Virgin;1:23430,23432,Virgin,Virgin;1:23430,23433,virgin,virgin;1:23430,23434,virgin,virgin;1:23430,23486,virgin,virgin;"></virtualNet>
+    <virtualNet hplmn="23438" virtual_net_rule="2" gid1="0x28" gid_mask="0xFF" ons_name="1:23438,23430,Virgin,Virgin;1:23438,23431,Virgin,Virgin;1:23438,23432,Virgin,Virgin;1:23438,23433,virgin,virgin;1:23438,23434,virgin,virgin;1:23438,23486,virgin,virgin;"></virtualNet>
+    <!-- SW_GLOBAL_EUROPE_080 end -->
+    <!--DTS2015111607446 shenzeyang/00290227 20151117 begin-->
+    <virtualNet hplmn="46605" virtual_net_rule="3" spn="GT 4G" ons_name="2:46605,46605,APT,GT 4G;"></virtualNet>
+    <virtualNet hplmn="20404" virtual_net_rule="3" spn="hollandsnieuwe" ons_name="2:20404,20404,Hollandsnieuwe,hollandsnieuwe;"></virtualNet>
+    <virtualNet hplmn="21405" virtual_net_rule="3" spn="Tuenti" ons_name="2:21405,21405,tuenti,Tuenti;"></virtualNet>
+    <virtualNet hplmn="53703" virtual_net_rule="3" spn="DIGICEL" ons_name="2:53703,53703,Digicel PNG,DIGICEL;"></virtualNet>
+    <!--DTS2015111607446 shenzeyang/00290227 20151117 end -->
+    <!-- DTS2015102200476 shifalong/wx277905 20151210 begin -->
+    <virtualNet hplmn="20416" virtual_net_rule="1" imsi_start="204164442" ons_name="1:204164442,20420,Ben NL,Ben NL;"></virtualNet>
+    <virtualNet hplmn="20416" virtual_net_rule="1" imsi_start="204164542" ons_name="1:204164542,20420,Ben NL,Ben NL;"></virtualNet>
+    <virtualNet hplmn="20416" virtual_net_rule="1" imsi_start="2041646420" ons_name="1:2041646420,20420,Ben NL,Ben NL;"></virtualNet>
+    <!-- DTS2017022004155  xiazhiqiao/wx320883 20170221 begin -->
+    <virtualNet hplmn="20416" virtual_net_rule="1" imsi_start="204164742" ons_name="1:20416,20420,Ben NL,Ben NL;"></virtualNet>
+    <!-- DTS2017022004155  xiazhiqiao/wx320883 20170221 end -->
+    <!-- DTS2015102200476 shifalong/wx277905 20151210 end -->
+    <!-- DTS2016062801883 wangqi wx205225 20160711 deleted -->
+    <!-- DTS2015121800292 hesen 218260 20151230 begin -->
+    <virtualNet hplmn="20408" virtual_net_rule="1" imsi_start="2040807500" ons_name="1:2040807500,20408,Ziggo,Ziggo;"></virtualNet>
+    <virtualNet hplmn="20408" virtual_net_rule="1" imsi_start="2040807501" ons_name="1:2040807501,20408,Ziggo,Ziggo;"></virtualNet>
+    <virtualNet hplmn="20408" virtual_net_rule="1" imsi_start="2040807502" ons_name="1:2040807502,20408,Ziggo,Ziggo;"></virtualNet>
+    <virtualNet hplmn="20408" virtual_net_rule="1" imsi_start="2040807503" ons_name="1:2040807503,20408,Ziggo,Ziggo;"></virtualNet>
+    <virtualNet hplmn="20408" virtual_net_rule="1" imsi_start="2040807504" ons_name="1:2040807504,20408,Ziggo,Ziggo;"></virtualNet>
+    <virtualNet hplmn="20408" virtual_net_rule="1" imsi_start="204080751" ons_name="1:204080751,20408,Ziggo,Ziggo;"></virtualNet>
+    <!--DTS2016012104756 shenzeyang/00290227 20160130 delete-->
+    <virtualNet hplmn="222998" virtual_net_rule="1" imsi_start="222998" ons_name="1:222998,22299,FASTWEB,FASTWEB;"></virtualNet>
+    <virtualNet hplmn="23410" virtual_net_rule="2" gid1="0x53" gid_mask="0xFF" ons_name="1:23410,23410,TalkTalk,TalkTalk;"></virtualNet>
+    <virtualNet hplmn="240077" virtual_net_rule="1" imsi_start="240077" ons_name="1:240077,24007,Comviq,Comviq;"></virtualNet>
+    <virtualNet hplmn="240078" virtual_net_rule="1" imsi_start="240078" ons_name="1:240078,24007,Comviq,Comviq;"></virtualNet>
+    <virtualNet hplmn="23802" virtual_net_rule="1" imsi_start="2380225" ons_name="1:2380225,23802,CBB,CBB;"></virtualNet>
+    <virtualNet hplmn="23802" virtual_net_rule="1" imsi_start="2380227" ons_name="1:2380227,23802,CBB,CBB;"></virtualNet>
+    <virtualNet hplmn="23802" virtual_net_rule="1" imsi_start="2380280" ons_name="1:2380280,23802,BiBoB,BiBoB;"></virtualNet>
+    <virtualNet hplmn="24205" virtual_net_rule="1" imsi_start="2420507" ons_name="1:2420507,24205,One Call,One Call;"></virtualNet>
+    <virtualNet hplmn="24205" virtual_net_rule="1" imsi_start="2420508" ons_name="1:2420508,24205,One Call,One Call;"></virtualNet>
+    <virtualNet hplmn="24205" virtual_net_rule="1" imsi_start="2420595" ons_name="1:2420595,24205,My Call,My Call;"></virtualNet>
+    <!-- DTS2015121800292 hesen 218260 20151230 end -->
+    <!-- DTS2016050411624 fengweiwei/wx214937 20160511 begin -->
+    <virtualNet hplmn="23212" virtual_net_rule="3" spn="Ge org!" ons_name="1:23212,23201,Ge org!,Ge org!;"></virtualNet>
+    <!-- DTS2016050411624 fengweiwei/wx214937 20160511 end -->
+</virtualNets>

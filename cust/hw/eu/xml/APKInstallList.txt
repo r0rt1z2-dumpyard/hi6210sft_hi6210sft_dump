@@ -1,0 +1,7 @@
+/data/dataapp/PredefinedEapSim/PredefinedEapSim.apk
+/data/dataapp/HwID/HwID.apk
+/data/dataapp/YouTube/YouTube.apk
+/data/dataapp/WebViewGoogle/WebViewGoogle.apk
+
+/data/dataapp/InstallAPKAccrodMCC/InstallAPKAccrodMCC.apk
+/data/dataapp/Todoist_ntp/Todoist_ntp.apk,priv

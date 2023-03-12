@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<hwouc_presets version="1">
+
+    <!-- AR0002EVAU linneng wx296161 20150909 begin -->
+    <int name="download_limit_size">1</int>
+    <!-- AR0002EVAU linneng wx296161 20150909 end -->
+
+</hwouc_presets>

@@ -1,0 +1,8 @@
+/cust/hw/eu/app/ChromeHomePage/ChromeHomePage.apk
+/cust/hw/eu/app/HwPhoneService/HwPhoneService.apk,priv
+/cust/hw/eu/app/HwID/HwID.apk
+/cust/hw/eu/app/HwCloudDrive_Local/HwCloudDrive_Local.apk
+/cust/hw/eu/app/LatinImeGoogle/LatinImeGoogle.apk
+/cust/hw/eu/app/talkback/talkback.apk
+/cust/hw/eu/app/PredefinedEapSim/PredefinedEapSim.apk
+/cust/hw/eu/app/OMACP/OMACP.apk

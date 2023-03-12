@@ -1,0 +1,10 @@
+/data/dataapp/AndroidVFSigned_GB/AndroidVFSigned_GB.apk
+
+/data/dataapp/VodafoneStart_Global/VodafoneStart_Global.apk
+/data/dataapp/Todoist_VDF/Todoist_VDF.apk
+/data/dataapp/ZinioReader/ZinioReader.apk
+
+/data/dataapp/VodafoneStart_Global_M/VodafoneStart_Global_M.apk
+/data/dataapp/Amazon_Kindle_Global/Amazon_Kindle_Global.apk
+/data/dataapp/Amazon_Shopping_Global/Amazon_Shopping_Global.apk
+/data/dataapp/Ebay_Global/Ebay_Global.apk

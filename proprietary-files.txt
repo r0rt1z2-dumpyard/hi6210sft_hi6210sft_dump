@@ -1,0 +1,131 @@
+# All blobs from hi6210sft-user 6.0 MRA58K eng.jenkins.20170223.113556 test-keys, unless pinned
+
+# Audio
+
+# Bluetooth
+vendor/lib/libbt-vendor-hi110x.so
+vendor/lib/libbt-vendor.so
+vendor/lib64/libbt-vendor-hi110x.so
+
+# Camera
+
+# DRM
+
+# DRM-Widevine
+vendor/lib/mediadrm/libdrmclearkeyplugin.so
+vendor/lib/mediadrm/libwvdrmengine.so
+vendor/lib64/mediadrm/libdrmclearkeyplugin.so
+
+# DTS
+vendor/lib/libdts-eagle-shared.so
+vendor/lib/libomx-dts.so
+vendor/lib64/libomx-dts.so
+
+# Display-Hardware
+
+# Firmware
+vendor/firmware/4343A0_001.001.034.0056.0193_ORC.hcd
+vendor/firmware/BCM4334B0_002.001.013.1554.1613_RC.hcd
+vendor/firmware/fw_bcm4343s_apsta_hw.bin
+vendor/firmware/fw_bcm4343s_hw.bin
+vendor/firmware/fw_bcm4343s_p2p_hw.bin
+vendor/firmware/fw_bcm4343s_test_hw_apsta.bin
+vendor/firmware/GNSS.bin
+vendor/firmware/nvram4343s_hw.txt
+vendor/firmware/nvram_CHERRY_PLUS_AS00.txt
+vendor/firmware/nvram_CHERRY_PLUS_ED00.txt
+vendor/firmware/nvram_CHERRY_PLUS_LD00.txt
+vendor/firmware/nvram_CHERRY_PLUS_LS00.txt
+vendor/firmware/nvram_CHERRY_PLUS_TL00.txt
+vendor/firmware/nvram_CHERRY_PLUS_TL20M.txt
+vendor/firmware/nvram_CHERRY_PLUS_UL00.txt
+vendor/firmware/RECOVER_DATA.bin
+vendor/firmware/sdio_cfg
+vendor/firmware/SDIO_CMP.bin
+vendor/firmware/SDIO_COD.bin
+vendor/firmware/sdio_recover_cfg
+vendor/firmware/SDIO_RW.bin
+vendor/firmware/SDIO_RW_ALICE_TL00_FEM.bin
+vendor/firmware/SDIO_RW_ALICE_TL02_FEM.bin
+vendor/firmware/SDIO_RW_ALICE_TL21_FEM.bin
+vendor/firmware/SDIO_RW_ALICE_TL23_FEM.bin
+vendor/firmware/SDIO_RW_ALICE_UL00_FEM.bin
+vendor/firmware/SDIO_RW_CARMEL_L03E_FEM.bin
+vendor/firmware/SDIO_RW_CARMEL_L03_FEM.bin
+vendor/firmware/SDIO_RW_CARMEL_L21_FEM.bin
+vendor/firmware/SDIO_RW_CARMEL_L23_FEM.bin
+vendor/firmware/SDIO_RW_CARMEL_L53_FEM.bin
+vendor/firmware/SDIO_RW_CARMEL_TL00H_FEM.bin
+vendor/firmware/SDIO_RW_CARMEL_TL10_FEM.bin
+vendor/firmware/SDIO_RW_CARMEL_U22_FEM.bin
+vendor/firmware/SDIO_RW_CARMEL_UL00E_FEM.bin
+vendor/firmware/SDIO_RW_CARMEL_UL00_FEM.bin
+vendor/firmware/SDIO_RW_CARMEL_UL10_FEM.bin
+vendor/firmware/SDIO_RW_Certification_Alice_FEM.bin
+vendor/firmware/SDIO_RW_Certification_CHM_FEM.bin
+vendor/firmware/SDIO_RW_CHC_U03_FEM.bin
+vendor/firmware/SDIO_RW_CHM_TL00H_FEM.bin
+vendor/firmware/SDIO_RW_CHM_TL00_FEM.bin
+vendor/firmware/SDIO_RW_CHM_U01_FEM.bin
+vendor/firmware/SDIO_RW_CHM_U23_FEM.bin
+vendor/firmware/SDIO_RW_CHM_UL00_FEM.bin
+vendor/firmware/SDIO_TBL.bin
+vendor/firmware/uart_cfg
+vendor/firmware/UART_CMP.bin
+vendor/firmware/UART_COD.bin
+vendor/firmware/UART_RW.bin
+vendor/firmware/UART_TBL.bin
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+
+# Listen
+
+# Media
+
+# Media-Hardware
+
+# NFC
+etc/nfcee_access.xml
+vendor/firmware/libpn547_fw.so
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+
+# Sensors
+
+# Time
+
+# WFD
+cust/preinstalled/public/app/MopriaPrintService/lib/arm/libwfdscrypto.so
+cust/preinstalled/public/app/MopriaPrintService/lib/arm/libwfdscups.so
+cust/preinstalled/public/app/MopriaPrintService/lib/arm/libwfdsjpeg.so
+cust/preinstalled/public/app/MopriaPrintService/lib/arm/libwfdspng.so
+cust/preinstalled/public/app/MopriaPrintService/lib/arm/libwfdsssl.so
+cust/preinstalled/public/app/MopriaPrintService/lib/arm/libwfdsSupport.so
+cust/preinstalled/public/lib/libwfdscrypto.so
+cust/preinstalled/public/lib/libwfdscups.so
+cust/preinstalled/public/lib/libwfdsjpeg.so
+cust/preinstalled/public/lib/libwfdspng.so
+cust/preinstalled/public/lib/libwfdsssl.so
+cust/preinstalled/public/lib/libwfdsSupport.so
+
+# WiFi
+
+# Misc
+-vendor/framework/com.huawei.audioalgo.jar
+vendor/lib/drm/libdrmwvmplugin.so
+vendor/lib/libcalmodule_akm.so
+vendor/lib/libeaglecore.so
+vendor/lib/libwvdrm_L3.so
+vendor/lib/libwvm.so
+vendor/lib/libWVStreamControlAPI_L3.so
+vendor/lib64/libcalmodule_akm.so

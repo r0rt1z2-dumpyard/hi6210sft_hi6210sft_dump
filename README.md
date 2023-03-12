@@ -1,0 +1,19 @@
+## hi6210sft-user 6.0 MRA58K eng.jenkins.20170223.113556 test-keys
+- Manufacturer: huawei
+- Platform: hi6210sft
+- Codename: hi6210sft
+- Brand: hi6210sft
+- Flavor: hi6210sft-user
+- Release Version: 6.0
+- Kernel Version: 3.10.86
+- Id: MRA58K
+- Incremental: eng.jenkins.20170223.113556
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: undefined
+- Screen Density: 320
+- Fingerprint: hi6210sft/hi6210sft/hi6210sft:6.0/MRA58K/jenkins02231141:user/test-keys
+- OTA version: 
+- Branch: hi6210sft-user-6.0-MRA58K-eng.jenkins.20170223.113556-test-keys
+- Repo: hi6210sft_hi6210sft_dump

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- AR0002EVGA huqimeng/wx280357  20150910 create-->
+<providers_product>
+    <!--E-Mail -->
+    <!-- AR0003H2OI wangqi wx205225 20160125 begin -->
+    <provider id="aol.co.uk" label="AOL.co.uk" domain="aim.com">
+        <incoming uri="imap+ssl://imap.aim.com:993"  username="$email" />
+        <outgoing uri="smtp+ssl://smtp.aim.com:465" username="$email" />
+   </provider>
+    <provider id="sky.com" label="Sky" domain="tools.sky.com">
+        <incoming uri="imap://imap.tools.sky.com:993"  username="$email" />
+        <outgoing uri="smtp://smtp.tools.sky.com:465" username="$email" />
+   </provider>
+    <provider id="Gmail" label="Gmail" domain="gmail.com">
+        <incoming uri="imap+ssl://imap.gmail.com:993"  username="$email" />
+        <outgoing uri="smtp+ssl://smtp.gmail.com:465" username="$email" />
+   </provider>
+    <provider id="aol.com" label="AOL.com" domain="aol.com">
+        <incoming uri="imap+ssl://imap.aol.com:993"  username="$email" />
+        <outgoing uri="smtp+ssl://smtp.aol.com:465" username="$email" />
+   </provider>
+    <!-- AR0003H2OI wangqi wx205225 20160125 end -->
+</providers_product>

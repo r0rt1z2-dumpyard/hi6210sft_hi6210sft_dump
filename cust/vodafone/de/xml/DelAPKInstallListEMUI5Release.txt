@@ -1,0 +1,14 @@
+/data/hw_init/cust/vodafone/de/app/HwBackup_Local/HwBackup_Local.apk
+
+/data/dataapp/AndroidVFSigned_DE/AndroidVFSigned_DE.apk
+/data/dataapp/MeinVodafone_DE/MeinVodafone_DE.apk
+/data/dataapp/Zunehor_DE/Zunehor_DE.apk
+
+/data/dataapp/VodafoneStart_Global/VodafoneStart_Global.apk
+/data/dataapp/Secure_net_wifi_Global/Secure_net_wifi_Global.apk
+/data/dataapp/Todoist_VDF/Todoist_VDF.apk
+/data/dataapp/ZinioReader/ZinioReader.apk
+
+/data/dataapp/Amazon_Kindle_Global/Amazon_Kindle_Global.apk
+/data/dataapp/Amazon_Shopping_Global/Amazon_Shopping_Global.apk
+/data/dataapp/Ebay_Global/Ebay_Global.apk

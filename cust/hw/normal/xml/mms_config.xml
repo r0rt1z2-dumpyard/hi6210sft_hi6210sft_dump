@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<!-- Version History
+        version 1 - initial version.
+        version 2 - added recipientLimit.
+        version 3 - added min/max recycler values.
+        version 4 - added sms to mms text threshold.
+-->
+<mms_config version="4"> 
+  <!-- Europe-Common-V5.0-Added-32 begin -->  
+  <string name="prefPlaymode">slideshowactivity</string>  
+  <!-- Europe-Common-V5.0-Added-32 end -->  
+  <!-- SW_GLOBAL_COMMON_035 begin -->  
+  <bool name="modifySMSCenterNumber">true</bool>  
+  <!-- SW_GLOBAL_COMMON_035 end -->  
+  <bool name="enableSmartAchive">false</bool>  
+  <bool name="creationModeEnabled">true</bool>  
+  <!-- SW_GLOBAL_COMMON_035 begin -->  
+  <bool name="enableReplyAll">true</bool>  
+  <!-- SW_GLOBAL_COMMON_035 end -->  
+  <!-- SW_GLOBAL_COMMON_061 begin -->  
+  <bool name="enableShortPhoneNumberLink">true</bool>  
+  <!-- SW_GLOBAL_COMMON_061 end -->  
+  <!-- SW_GLOBAL_COMMON_068 begin -->  
+  <bool name="isChangeClassZeroMessageShow">true</bool>  
+  <!-- SW_GLOBAL_COMMON_068 end -->  
+  <!-- AR0002O5LA begin -->  
+  <bool name="enableMmsParamsFromGlobal">true</bool>  
+  <!-- AR0002O5LA end -->  
+  <!-- AR0002GJHL fanchuanwen/wx229747 20150923 begin -->  
+  <int name="maxMessageSize">307200</int>  
+  <int name="smsToMmsTextThreshold">11</int>  
+  <int name="maxMessageTextSize">-1</int>  
+  <!-- AR0002GJHL fanchuanwen/wx229747 20150923 end -->  
+  <!-- DTS2015111206381  fanchuanwen/wx229747 20151112 begin -->  
+  <bool name="isNotLimitToRoamingState">true</bool>  
+  <!-- DTS2015111206381  fanchuanwen/wx229747 20151112 end -->  
+  <!-- AR0003TIL3  fanchuanwen/wx229747 20160714 begin -->  
+  <int name="defaultAlwaysAllowMms">1</int>  
+  <!-- AR0003TIL3  fanchuanwen/wx229747 20160714 end -->  
+  <!-- AR0007UKVO wuming/wwx365251 20161129 begin -->  
+  <bool name="enableMmsCustomizedUA">false</bool>  
+  <string name="userAgent">Android-Mms/2.0</string>  
+  <!-- AR0007UKVO wuming/wwx365251 20161129 end  --> 
+</mms_config>

@@ -1,0 +1,408 @@
+#############################################################################
+########"      __        __               _                     "############
+########"      \ \      / /_ _ _ __ _ __ (_)_ __   __ _         "############
+########"       \ \ /\ / / _` | '__| '_ \| | '_ \ / _` |        "############
+########"        \ V  V / (_| | |  | | | | | | | | (_| |        "############
+########"         \_/\_/ \__,_|_|  |_| |_|_|_| |_|\__, |        "############
+########"                                         |___/         "############
+########"                                                       "############
+########"   ONLY DRIVER PROPS ALLOWED IN THIS SECTION BEGIN     "############
+
+
+########"                                                       "############
+########"                                                       "############
+########"   ONLY DRIVER PROPS ALLOWED IN THIS SECTION END       "############
+#############################################################################
+
+#############################################################################
+########"      __        __               _                     "############
+########"      \ \      / /_ _ _ __ _ __ (_)_ __   __ _         "############
+########"       \ \ /\ / / _` | '__| '_ \| | '_ \ / _` |        "############
+########"        \ V  V / (_| | |  | | | | | | | | (_| |        "############
+########"         \_/\_/ \__,_|_|  |_| |_|_|_| |_|\__, |        "############
+########"                                         |___/         "############
+########"                                                       "############
+########"   ONLY PROTOCOL PROPS ALLOWED IN THIS SECTION BEGIN   "############
+#####################################################################################
+######## 1.DATA SERVICE TEAM BEGIN
+#DTS2016101000806 huangjian WX343871 20161013 begin
+ro.config.bip_over_wlan=false
+#DTS2016101000806 huangjian WX343871 20161013 end
+######## 1.DATA SERVICE TEAM END
+#####################################################################################
+
+########"                                                       "############
+########"                                                       "############
+########"   ONLY PROTOCOL PROPS ALLOWED IN THIS SECTION END     "############
+#############################################################################
+
+
+
+#############################################################################
+########"      __        __               _                     "############
+########"      \ \      / /_ _ _ __ _ __ (_)_ __   __ _         "############
+########"       \ \ /\ / / _` | '__| '_ \| | '_ \ / _` |        "############
+########"        \ V  V / (_| | |  | | | | | | | | (_| |        "############
+########"         \_/\_/ \__,_|_|  |_| |_|_|_| |_|\__, |        "############
+########"                                         |___/         "############
+########"                                                       "############
+########"   ONLY APP TEAM PROPS ALLOWED IN THIS SECTION BEGIN   "############
+#####################################################################################
+######## 1.APP MANUFACTURE TEAM BEGIN
+###########1.1.MMI BEGIN
+
+###########1.1.MMI END
+
+###########1.2.PROJECT MENU BEGIN
+
+###########1.2.PROJECT MENU END
+
+###########1.3.RUN IN TEST BEGIN
+
+###########1.3.RUN IN TEST END
+######## 1.APP MANUFACTURE TEAM END
+#####################################################################################
+######## 2.BASEAPP TEAM BEGIN
+ro.config.keyguard_unusedata=false
+######## 2.BASEAPP TEAM END
+#####################################################################################
+######## 3.MULTI-MEDIA TEAM BEGIN
+# SW_PC_COMM_431 begin
+ro.config.hw_incr_rtsp_pktwt=true
+# SW_PC_COMM_431 end
+######## 3.MULTI-MEDIA TEAM END
+#####################################################################################
+######## 4.FRAMEWORK TEAM BEGIN
+
+######## 4.FRAMEWORK TEAM END
+#####################################################################################
+######## 5.DATA SERVICE TEAM BEGIN
+
+######## 5.DATA SERVICE TEAM END
+#####################################################################################
+######## 6.APPLET TEAM BEGIN
+
+######## 6.APPLET TEAM END
+#####################################################################################
+######## 7.PRODUCT INFO BEGIN
+
+######## 7.PRODUCT INFO END
+#####################################################################################
+########"                                                       "############
+########"                                                       "############
+########"   ONLY APP TEAM PROPS ALLOWED IN THIS SECTION END     "############
+#############################################################################
+#####################################################################################
+######## 8.CUSTOM TEAM BEGIN
+# PUBLIC begin
+ro.config.hw_opta=432
+ro.config.hw_optb=999
+ro.product.CustCVersion=C432
+# SW_GLOBAL_EUROPE_COMMON_002 & SW_GLOBAL_EUROPE_COMMON_003 begin
+#ro.product.locale.language=en
+# SW_GLOBAL_EUROPE_COMMON_002 & SW_GLOBAL_EUROPE_COMMON_003 end
+# SW_GLOBAL_COMMON_027 begin
+#ro.product.locale.region=GB
+# SW_GLOBAL_COMMON_027 end
+# SW_GLOBAL_ME_NAF_020 & SW_GLOBAL_EUROPE_COMMON_002 begin
+ro.product.locale=en-GB
+# SW_GLOBAL_ME_NAF_020 & SW_GLOBAL_EUROPE_COMMON_002 end
+# PUBLIC end
+
+# SW_GLOBAL_EUROPE_064 begin
+ro.config.dualsim_display=true
+# SW_GLOBAL_EUROPE_064 end
+
+# SW_GLOBAL_EUROPE_129 begin
+ro.config.hw_simpToStandConfrm=true
+# SW_GLOBAL_EUROPE_129 end
+
+# SW_GLOBAL_EUROPE_177 begin
+#DTS2016110408170 liufei WX220115 20161115 begin
+ro.config.fdn.preload=true
+ro.config.fdn.restrict.ds=false
+#DTS2016110408170 liufei WX220115 20161115 end
+# SW_GLOBAL_EUROPE_177 end
+
+# SW_GLOBAL_EUROPE_089 begin
+# AR0003TIP8 wangfei/wx365252 20160614 begin
+#ro.config.hw_voicemail_sim=true
+#ro.config.vm_prioritymode=2
+# AR0003TIP8 wangfei/wx365252 20160614 end
+# SW_GLOBAL_EUROPE_089 end
+
+# SW_GLOBAL_EUROPE_122 begin
+ro.config.emergencycall_show=false
+# SW_GLOBAL_EUROPE_122 end
+
+# SW_GLOBAL_EUROPE_142 begin
+ro.config.noFormateCountry=SK
+# SW_GLOBAL_EUROPE_142 end
+
+# SW_GLOBAL_EUROPE_138 begin
+ro.config.hw_ECT=true
+# SW_GLOBAL_EUROPE_138 end
+
+# SW_GLOBAL_EUROPE_152 begin
+ro.config.wifi_sound=false
+# SW_GLOBAL_EUROPE_152 end
+
+# SW_GLOBAL_EUROPE_QC_017 begin
+ro.config.noanswerforwd_dialog=true
+# SW_GLOBAL_EUROPE_QC_017 end
+
+# SW_GLOBAL_EUROPE_028 begin
+ro.config.hw_eapsim=true
+# SW_GLOBAL_EUROPE_028 end
+
+# SW_GLOBAL_EUROPE_049 begin
+# wait for zaiyan
+# SW_GLOBAL_EUROPE_049 end
+
+# SW_GLOBAL_EUROPE_071 begin
+persist.radio.apn_delay=5000
+# SW_GLOBAL_EUROPE_071 end
+
+# SW_GLOBAL_EUROPE_087 begin
+ro.cellbroadcast.emergencyids=0-65534
+# SW_GLOBAL_EUROPE_087 end
+
+# SW_GLOBAL_EUROPE_092 begin
+ro.config.hw_ascend_ringtone=false
+# SW_GLOBAL_EUROPE_092 end
+
+# SW_GLOBAL_EUROPE_QC_010 begin
+ro.config.hw_delay_detach_plmn=26006
+# DTS2015121808659  wangzhicheng/wx205142 20151224 begin
+ro.config.hw_delay_detach_time=5
+# DTS2015121808659  wangzhicheng/wx205142 20151224 end
+# SW_GLOBAL_EUROPE_QC_010 end
+
+# SW_GLOBAL_EUROPE_063 & SW_GLOBAL_EUROPE_082 begin
+ro.config.hw.BH_defaultlanguage=true
+# SW_GLOBAL_EUROPE_063 & SW_GLOBAL_EUROPE_082 end
+
+# SW_GLOBAL_EUROPE_116 begin
+ro.config.mcc.array=219
+# DTS2015102807806  delete ro.config.hw_hideIcons_mcc=219.10
+# DTS2015102807806  delete ro.config.hw_hideIcons_apk=com.android.stk
+# SW_GLOBAL_EUROPE_116 end
+
+# DTS2016051306048 caichunhua/00221616 20160513 begin
+# AR00043VVR xiazhiqiao/wx320883 20160531 delete ro.lifeAndEe.ApnShow
+# DTS2016051306048 caichunhua/00221616 20160513 end
+
+# SW_GLOBAL_EUROPE_139 begin
+ro.config.check_language=en,de,fr,es,pt,ru,it
+# SW_GLOBAL_EUROPE_139 begin
+
+# SW_GLOBAL_EUROPE_016 begin
+# DTS2015091407839 shifalong/wx277905 20151024 begin
+# AR0004J327 zhanglinghui/wx307492 20160817 begin
+gsm.fastdormancy.mode=1
+# AR0004J327 zhanglinghui/wx307492 20160817 end
+# DTS2015091407839 shifalong/wx277905 20151024 end
+gsm.fastdormancy.screen=2
+gsm.fastdormancy.time_scroff=4000
+# SW_GLOBAL_EUROPE_016 end
+
+# SW_GLOBAL_EUROPE_157 begin
+ro.config.hw_DialpadCharacter=+
+# SW_GLOBAL_EUROPE_157 end
+
+# SW_GLOBAL_EUROPE_QC_003 begin
+ro.config.CphsOnsEnabled=false
+# SW_GLOBAL_EUROPE_QC_003 end
+
+# Europe-Common-V5.0-Added-20 begin
+ro.config.sim_store_plus=true
+# Europe-Common-V5.0-Added-20 end
+
+# Europe-Common-V5.0-Added-36 begin
+ro.config.manualsignal_lost=true
+# Europe-Common-V5.0-Added-36 end
+
+# DP Europe-Common-V5.0-Added-4 begin
+ro.config.readiccid_switch=true
+ro.config.iccid_language=true
+# DP Europe-Common-V5.0-Added-4 end
+
+# SW_GLOBAL_EUROPE_057 begin
+drm.service.enabled=true
+# DTS2015092403090
+ro.huawei.cust.oma=true
+# DTS2015092403090
+ro.huawei.cust.oma_drm=true
+ro.huawei.cust.drm.fl_only=false
+ro.huawei.cust.drm_midi=1
+# SW_GLOBAL_EUROPE_057 end
+
+#SW_GLOBAL_EUROPE_013 && DTS2014090303730 begin
+ro.config.hw_is_pre_post_pay=true
+#SW_GLOBAL_EUROPE_013 && DTS2014090303730 end
+
+# SW_GLOBAL_EUROPE_153
+ro.config.ussd_linkify=true
+# SW_GLOBAL_EUROPE_153
+
+#SW_GLOBAL_EUROPE_158 && DTS2015050808061 begin
+ro.config.set_gps_high_accuracy=true
+#SW_GLOBAL_EUROPE_158 && DTS2015050808061 end
+
+# SW_GLOBAL_EUROPE_57
+ro.config.hw_drm_no_padscheme=true
+# SW_GLOBAL_EUROPE_57
+
+# SW_GLOBAL_EUROPE_077
+ro.config.on_data_alert_popup=true
+# SW_GLOBAL_EUROPE_077
+
+# SW_GLOBAL_EUROPE_150
+ro.config.usesEncodingDetector=1
+# SW_GLOBAL_EUROPE_150
+
+# AR0002NMRU
+ro.email.noreply2self=true
+# AR0002NMRU
+
+# AR0002NMOJ
+ro.email.nocheck_emailaddr=true
+# AR0002NMOJ
+
+# AR0002NMOM
+ro.config.hw_szlTextView_hint=true
+# AR0002NMOM
+
+# DTS2015032401889  huangpu wx277909 20151109 begin
+ro.config.hw_startupde=true
+# DTS2015032401889  huangpu wx277909 20151109 end
+
+# AR0002GJN6 taozhipeng wx207097 20150816 begin
+ro.config.hw_omacp=1
+# AR0002GJN6 taozhipeng wx207097 20150816 end
+
+# AR0002NMS2 taozhipeng wx207097 20152906 begin
+# AR0004HTB2 wangfei/wx365252 20160718 begin
+#ro.config.hw_hideNetworkSpeed=true
+# AR0004HTB2 wangfei/wx365252 20160718 end
+# AR0002NMS2 taozhipeng wx207097 20152906 end
+
+# AR0002GJR2 fanchuanwen wx229747 20151008 begin
+# DTS2016010903412 zhangxinsheng 00221699 20160112 begin
+#ro.config.hw_lte_support:true(device support 4G) false(device unsupport 4G) Careful this is Product cust
+#ro.config.hw_lte_support=true
+# DTS2016010903412 zhangxinsheng 00221699 20160112 end
+# AR0002GJR2 fanchuanwen wx229747 20151008 end
+
+# AR0002JQKU liujinjie 00293362 20151008 begin
+ro.config.support_orange_apn=true
+# AR0002JQKU liujinjie 00293362 20151008 end
+# AR0002GJLP c00182858 20151016 begin
+ro.config.ce_authenticate=1
+# AR0002GJLP c00182858 20151016 end
+
+# AR00039EM0 huangpu wx277909 20151106 begin
+ro.config.email_show_pb=true
+# AR00039EM0 huangpu wx277909 20151106 end
+
+# DTS2015102305891 liuliang 00327023 20151112 begin
+ro.config.hw_show_mmiError=true
+# DTS2015102305891 liuliang 00327023 20151112 end
+
+# AR000274RB fengweiwei wx214937 20151113 begin
+ro.config.nfcceoff_screenoff=true
+# AR000274RB fengweiwei wx214937 20151113 end
+
+#AR000389G0 hujiabing 20151116 begin
+ro.config.enable_c2dm_delay=true
+ro.config.c2dmdelay=30000
+ro.config.gcm_hb_speedup=true
+ro.config.gcm_hb_speed_factor=4
+#AR000389G0 hujiabing 20151116 end
+
+# AR0002GJRP huangpu wx277909 20151125 begin
+ro.config.hw_use_browser_ua=http://wap1.huawei.com/uaprof/HUAWEI_%s_UAProfile.xml
+# AR0002GJRP huangpu wx277909 20151125 end
+
+#DTS2015111702380 meishuangwen wx230765 20151126 begin
+ro.config.hw_nfc_on=true
+#DTS2015111702380 meishuangwen wx230765 20151126 end
+
+#DTS2015112407873 liupan lwx303603 20151126 begin
+ro.config.hw_coop_weeknumb=true
+#DTS2015112407873 liupan lwx303603 20151126 end
+#DTS2015112704371 limeichuan 00218580 20151201 begin
+ro.config.nfc_ce_transevt=true
+#DTS2015112704371 limeichuan 00218580 20151201 end
+
+#DTS2015113002905 zhangxinsheng 00221699 begin
+ro.config.show_other_ring=false
+#DTS2015113002905 zhangxinsheng 00221699 end
+
+# DTS2016022407251 fengderun begin
+# AR0003JJFE meishuangwen wx230765 20151214 begin
+#ro.config.ifToastDuplicateIcon=false
+#ro.config.ifCheckDuplicateTitle=false
+# AR0003JJFE meishuangwen wx230765 20151214 end
+# DTS2016022407251 fengderun end
+
+#AR0003FLNM  huangpu wx277909 20151210 begin
+ro.config.hw_hide_lte=true
+#AR0003FLNM  huangpu wx277909 20151210 end
+#DTS2015121501006 wangqi wx205225 20151229 begin
+ro.config.not_show_net_connect=true
+#DTS2015121501006 wangqi wx205225 20151229 end
+# AR000274OP zhoujunli zwx227427 20151229 begin
+ro.config.hw_agps_adpt_sim=true
+# AR000274OP zhoujunli zwx227427 20151229 end
+#DTS2016022606426 liudujie 00261417 20160301 begin
+ro.config.cust_permission=true
+#DTS2016022606426 liudujie 00261417 20160301 end
+#DTS2016032500086 wenyuxiang wx343139 20160329 begin
+ro.email.inline_as_att=true
+#DTS2016032500086 wenyuxiang wx343139 20160329 end
+#DTS2016020306088 zhuguoqing zkf65178 20160413 begin
+ro.config.noShowCityName=true
+#DTS2016020306088 zhuguoqing zkf65178 20160413 end
+#AR0004AK9B fanchuanwen fwx229747 20160503 begin
+ro.config.hw_disable_portal=true
+#AR0004AK9B fanchuanwen fwx229747 20160503 end
+#AR0003TIF1 panyu wx224526 20160602 begin
+ro.config.hw_opt_pre_contact=true
+#AR0003TIF1 panyu wx224526 20160602 end
+#DTS2016031803143 zhangdi wx326716 20160630 begin
+ro.config.hide_custlink_apps=true
+#DTS2016031803143 zhangdi wx326716 20160630 end
+#DTS2016072000180 & SW_GLOBAL_EUROPE_140 fengweiwei wx214937 20160720 begin
+ro.config.dualimsi.disableap=true
+#DTS2016072000180 & SW_GLOBAL_EUROPE_140 fengweiwei wx214937 20160720 end
+# DTS2016080107449 wuxingru wwx368291 20160803 begin
+# DTS2016112504429 xinglei wx368928 20161128 begin
+ro.config.forbid_clear_noti=false
+# DTS2016112504429 xinglei wx368928 20161128 end
+# DTS2016080107449 wuxingru wwx368291 20160803 end
+#DTS2016083105144 yangqirun ywx314333 20160901 begin
+ro.config.hw_volte_show_on=false
+#DTS2016083105144 yangqirun ywx314333 20160901 end
+#DTS2016083105144 zhangyuanshu/00213359 20160901 begin
+ro.config.hw_dialpad_hd_on=false
+ro.config.hw_incall_hd_on=false
+#DTS2016083105144 zhangyuanshu/00213359 20160901 end
+#DTS2016120607400 zhangfang WX207092 20161224 begin
+ro.config.device_time_for_mms=true
+#DTS2016120607400 zhangfang WX207092 20161224 end
+#AR0008VEL9 zhangfang WX207092 20170218 begin
+ro.config.remove_apn_MVNO=true
+#AR0008VEL9 zhangfang WX207092 20170218 end
+######## 8.CUSTOM TEAM END
+#####################################################################################
+######## 9.VOVT TEAM BEGIN
+#  begin PN: AR0007332C, Added by zhaosongwei/00171348, 2016/11/08
+ro.config.hw_volte_icon_rule=0
+#  END   PN: AR0007332C, Added by zhaosongwei/00171348, 2016/11/08
+#  begin PN: AR0006RJO9, Added by wangjia/wx308001, 2016/12/05
+ro.config.hw_show_googleservice=true
+#  END   PN: AR0006RJO9, Added by wangjia/wx308001, 2016/12/05
+######## 9.VOVT TEAM END
+#####################################################################################
+

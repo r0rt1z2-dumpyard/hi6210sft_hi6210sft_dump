@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- AR0002EVGA huqimeng/wx280357  20150910 create-->
+<providers_product>
+    <!--E-Mail -->
+    <provider id="Gmail" label="Gmail" domain="gmail.com">
+        <incoming uri="imap+ssl://imap.gmail.com:993"  username="$email" />
+        <!-- AR0003HQL1 huqimeng/wx280357  20151211 begin-->
+        <outgoing uri="smtp+ssl://smtp.gmail.com:465" username="$email" />
+        <!-- AR0003HQL1 huqimeng/wx280357  20151211 end-->
+   </provider>
+</providers_product>

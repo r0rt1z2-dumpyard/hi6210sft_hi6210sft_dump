@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<!-- Version History
+        version 1 - initial version.
+        version 2 - added recipientLimit.
+        version 3 - added min/max recycler values.
+        version 4 - added sms to mms text threshold.
+-->
+
+<mms_config version="4">
+    <!-- AR0002EVD4 guben WX296140 201500909 begin-->
+    <bool name="isShowAttachmentSize">true</bool>
+    <!-- AR0002EVD4 guben WX296140 20150909 end-->
+    <!-- AR0002EVGA qiujianxiong wx278092 20150910 begin-->
+    <int name="maxMessageSize">307200</int>
+    <int name="mmsExpiryKey">-1</int>
+    <!-- AR0002EVGA qiujianxiong wx278092 20150910 end-->
+    <!-- AR0002EVA8 zhangfang WX207092 20150910 begin-->
+    <bool name="enableMmsCustomizedUA">true</bool>
+    <string name="userAgent">HUAWEI/softwareVersion/Android-Mms/2.0</string>
+    <!-- AR0002EVA8 zhangfang WX207092 20150910 end-->
+    <!-- AR0002EVBO guben WX296140 201500910 begin-->
+    <bool name="enableReplyAll">true</bool>
+    <!-- AR0002EVBO guben WX296140 201500910 end-->
+    <!-- AR0002EVF0  zhangfang WX207092 20150912 begin-->
+    <bool name="eableSmsDeliverToast">false</bool>
+    <!-- AR0002EVF0  zhangfang WX207092 20150912 end-->
+    <!-- AR0002EVGA guben WX296140 20150930 begin-->
+    <!-- DTS2015112504963 zhangfang/zWX207092 20151127 begin-->
+    <bool name="smsOptimizationCharacters">false</bool>
+    <!-- DTS2015112504963 zhangfang/zWX207092 20151127 end-->
+    <!-- AR0002EVGA guben WX296140 20150930 end-->
+    <!-- AR0002EVGA qiujianxiong wx278092 20151103 begin-->
+    <int name="defaultAutoRetrievalMms">1</int>
+    <!-- AR0002EVGA qiujianxiong wx278092 20151103 end-->
+    <!-- DTS2015011510312 zhangfang/zWX207092 20150228 begin-->
+    <bool name="enableFdnCheckForMms">true</bool>
+    <!-- DTS2015011510312 zhangfang/zWX207092 20150228 end-->
+    <!-- AR0002EVGA zhangfang/zWX207092 20151103 begin -->
+    <int name="enableDeliveryReportState">0</int>
+    <bool name="showMMSReadReports">true</bool>
+    <bool name="enableMMSAutoReplyReadReports">true</bool>
+    <bool name="isShowMmsReadReportDialog">false</bool>
+    <!-- AR0002EVGA zhangfang/zWX207092 20151103 end -->
+    <!-- AR0003HQKA zhangfang zWX207092 20151211 begin-->
+    <bool name="enableMmsParamsFromGlobal">false</bool>
+    <!-- AR0003HQKA zhangfang zWX207092 20151211 end-->
+    <!-- AR0003O20C liudujie 00261417 20160128 begin-->
+    <bool name="custEnableForwardMessageFrom">false</bool>
+    <!-- AR0003O20C liudujie 00261417 20160128 end-->
+    <!-- AR0003JHUM  wangning/0022788 20160224 begin -->
+    <bool name="isCommonAlwaysTxRxMmsFeature">false</bool>
+    <!-- AR0003JHUM  wangning/0022788 20160224 end -->
+    <!-- DTS2016082207220  wangning/00227088 20160926 begin -->
+    <bool name="isNotLimitToRoamingState">false</bool>
+    <!-- DTS2016082207220  wangning/00227088 20160926 end -->
+</mms_config>

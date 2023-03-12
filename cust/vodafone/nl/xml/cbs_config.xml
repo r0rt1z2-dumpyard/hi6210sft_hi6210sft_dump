@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2011 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<cbs_config version="4">
+    <!-- Whether to enable ETWS settings (Japan) -->
+    <bool name="show_etws_settings">false</bool>
+    <!-- Whether to enable CMAS settings (United States) -->
+    <bool name="show_cmas_settings">true</bool>
+    <!-- Whether to enable channel 50 settings (Brazil) -->
+    <bool name="show_brazil_settings">false</bool>
+    <!--  DTS2012061404818 hujie 20120614 begin -->
+    <!-- Whether to enable channel 50 ring (Brazil) -->
+    <bool name="enable_brazil_channel_50_ring">false</bool>
+    <!--  DTS2012061404818 hujie 20120614 end -->
+    <!-- Whether to show channel config -->
+    <bool name="show_channel_config">true</bool>
+    <!-- Whether to show language select -->
+    <bool name="show_language_select">false</bool>
+    <!-- Whether to show repeat time -->
+    <bool name="show_repeat_time">true</bool>
+    <!-- the time limit allow to recieve messages of the same id -->
+    <int name = "limit_recieve_time">11000</int>
+    <!-- Whether to enable setting alert from language to speech-->
+    <bool name="show_language_speech">true</bool>
+    <!-- Whether the alert duration setting enable-->
+    <bool name="show_alert_duration">true</bool>
+    <!-- Max channels could add by user-->
+    <int name = "max_add_channel_count">10000</int>
+
+    <!-- cmas language config begin -->
+    <!-- be sure to modify value(true or false) only -->
+    <bool name="cmas_English">true</bool>
+    <bool name="cmas_French">true</bool>
+    <bool name="cmas_Spanish">true</bool>
+    <bool name="cmas_Japanese">true</bool>
+    <bool name="cmas_Korean">true</bool>
+    <bool name="cmas_Chinese">true</bool>
+    <bool name="cmas_Hebrew">true</bool>
+    <!-- cmas language config begin -->
+
+    <!-- gsm language config begin -->
+    <!-- be sure to modify value(true or false) only -->
+    <bool name="gsm_German">true</bool>
+    <bool name="gsm_English">true</bool>
+    <bool name="gsm_Italian">true</bool>
+    <bool name="gsm_French">true</bool>
+    <bool name="gsm_Spanish">true</bool>
+    <bool name="gsm_Dutch">true</bool>
+    <bool name="gsm_Swedish">true</bool>
+    <bool name="gsm_Danish">true</bool>
+    <bool name="gsm_Portuguese">true</bool>
+    <bool name="gsm_Finnish">true</bool>
+    <bool name="gsm_Norwegian">true</bool>
+    <bool name="gsm_Greek">true</bool>
+    <bool name="gsm_Turkish">true</bool>
+    <bool name="gsm_Hungarian">true</bool>
+    <bool name="gsm_Polish">true</bool>
+    <bool name="gsm_Czech">true</bool>
+    <bool name="gsm_Hebrew">true</bool>
+    <bool name="gsm_Arabic">true</bool>
+    <bool name="gsm_Russian">true</bool>
+    <bool name="gsm_Icelandic">true</bool>
+    <!-- gsm language config begin -->
+
+    <!-- DTS2012060604271 chengjianhua 20120608 begin -->
+    <!-- DTS2016071507724 taohao/WX343138 20160719 begin -->
+    <!--bool name="enable_message_linkify">true</bool-->
+    <!-- DTS2016071507724 taohao/WX343138 20160719 end -->
+
+    <bool name="enable_ignore_reduplicate_message">false</bool>
+    <!-- DTS2012060604271 chengjianhua 20120608 end -->
+
+    <!-- DTS2012060604271 chengjianhua 20120608 begin -->
+    <!-- if opened, when simcard is changed, all user's settings should reset -->
+    <bool name="check_sim_changed">false</bool>
+    <!-- DTS2012060604271 chengjianhua 20120608 end -->
+    <bool name="enable_emergency_alerts">true</bool>
+    <!-- AR0001794J zhangfang/zWX207092 20150901 begin -->
+    <bool name="nl_cmas_alert">true</bool>
+    <!-- AR0001794J zhangfang/zWX207092 20150901 end -->
+    <bool name="check_language_code">false</bool>
+</cbs_config>

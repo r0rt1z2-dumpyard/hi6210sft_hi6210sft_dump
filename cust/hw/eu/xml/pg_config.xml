@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- 
+ * Copyright (C) 2013 Huawei Inc.
+ * PG_Config
+ * path: /data/cust/xml/pg_config.xml
+ * or /system/etc/pg_config.xml
+ -->
+<!-- SW_GLOBAL_EUROPE_016 end -->
+<pg_config version="1">
+    <bool name="packets_rrc">false</bool> 
+    <!--  default is true --> 
+</pg_config>
+<!-- SW_GLOBAL_EUROPE_016 end-->

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<logo_list displayimage="true">
+<!-- AR0002EVGA huqimeng/wx280357  20150910 create-->
+<logo_item image="email_default_icon.png" value="@AOL.co.uk" displayname="aol.co.uk"></logo_item>
+<logo_item image="email_default_icon.png" value="@Sky" displayname="sky.com"></logo_item>
+<!-- AR0003AUN3 huqimeng wx280357  20151228 begin-->
+<logo_item image="email_gmail_icon.png" value="@Gmail" displayname="Gmail"></logo_item>
+<!-- AR0003AUN3 huqimeng wx280357  20151228 end-->
+<logo_item image="email_default_icon.png" value="@AOL.com" displayname="aol.com"></logo_item>
+</logo_list>
+

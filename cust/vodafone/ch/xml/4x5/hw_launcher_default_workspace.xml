@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<favorites xmlns:launcher="http://schemas.android.com/apk/res/com.huawei.android.launcher">
+    <!-- AR0003M11T xiekaiming wx278091 20160125 begin -->
+    <!-- the 3rd screen -->
+    <!-- AR0003V814 xiekaiming wx278091 20160416 begin -->
+    <folder
+        launcher:title="Swisscom"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:op="add">
+        <favorite
+            launcher:packageName="com.swisscom.myswisscom"
+            launcher:className="com.swisscom.myswisscom.MainActivity"/>
+        <favorite
+            launcher:packageName="com.swisscom.scappslauncher"
+            launcher:className="com.swisscom.scappslauncher.SCAppsLauncher"/>
+        <favorite
+            launcher:packageName="com.swisscom.swisscomcockpit"
+            launcher:className="com.swisscom.swisscomcockpit.MainActivity"/>
+        <favorite
+            launcher:packageName="ch.local.android"
+            launcher:className="ch.local.android.MainActivity" />
+        <favorite
+            launcher:packageName="ch.swisscom.bluewin"
+            launcher:className="ch.swisscom.bluewin.activities.SplashScreenActivity"/>
+
+    </folder>
+    <!-- AR0003V814 xiekaiming wx278091 20160416  end  -->
+    <!-- AR0003O1T1 xiekaiming wx278091 20160226 begin -->
+    <favorite
+        launcher:packageName="ch.deindeal.android"
+        launcher:className="ch.deindeal.android.activities.SplashScreenActivity"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:x="2"
+        launcher:y="2"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="insertinto"/>
+    <!-- AR0003O1T1 xiekaiming wx278091 20160226  end  -->
+    <!-- the 3rd screen -->
+
+    <!-- AR0003M11T xiekaiming wx278091 20160125 end -->
+</favorites>

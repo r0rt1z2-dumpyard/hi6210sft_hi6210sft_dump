@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<!-- Version History
+        version 1 - initial version.
+        version 2 - added recipientLimit.
+        version 3 - added min/max recycler values.
+        version 4 - added sms to mms text threshold.
+-->
+
+<mms_config version="4">
+    <!-- SW_GLOBAL_EUROPE_041 begin -->
+    <bool name="smsOptimizationCharacters">true</bool>
+    <!-- SW_GLOBAL_EUROPE_041 end -->
+
+    <!-- SW_GLOBAL_EUROPE_148 begin -->
+    <bool name="enableSendingBlankSMS">false</bool>
+    <string name="MCCMNCListForBlankSMS">25001,25002,25003,25005,25007,25011,25012,25015,25016,25017,25019,25020,25035,25037,25038,25039,25099,25701,25702,25704</string>
+    <!-- SW_GLOBAL_EUROPE_148 end -->
+
+    <!-- SW_GLOBAL_EUROPE_QC_023 & SW_GLOBAL_EUROPE_QC_033 begin -->
+    <bool name="isRenameAttachmentName">true</bool>
+    <!-- SW_GLOBAL_EUROPE_QC_023 & SW_GLOBAL_EUROPE_QC_033 end -->
+
+    <!-- SW_GLOBAL_EUROPE_090 begin -->
+    <!-- DTS2015102705206  delete <bool name="closePopupMsgOption">true</bool> -->
+    <!-- SW_GLOBAL_EUROPE_090 end -->
+
+    <!-- AR0002GJPQ begin -->
+    <int name="enableDeliveryReportState">0</int>
+    <bool name="showMMSReadReports">true</bool>
+    <bool name="enableMMSAutoReplyReadReports">true</bool>
+    <bool name="isShowMmsReadReportDialog">false</bool>
+    <!-- AR0002GJPQ end -->
+
+    <!-- SW_GLOBAL_EUROPE_012 begin -->
+    <int name="WAPPushSupported">1</int>
+    <!-- SW_GLOBAL_EUROPE_012 end -->
+
+    <!-- SW_GLOBAL_EUROPE_131 begin -->
+    <!-- Product cust-->
+    <!-- string name="uaProfUrl">http://wap1.huawei.com/uaprof/HUAWEI_XXXXX.xml</string-->
+    <!-- SW_GLOBAL_EUROPE_131 end -->
+    <!-- DTS2015032510471 linbo/wx228314 20150326 begin -->
+    <bool name="enablePhoneAtrribute">false</bool>
+    <!-- DTS2015032510471 linbo/wx228314 20150326 end -->
+
+    <!-- Europe-Common-V5.0-Added-22 begin -->
+    <bool name="enableShortPhoneNumberLink">true</bool>
+    <!-- Europe-Common-V5.0-Added-22 end -->
+
+    <!-- Europe-Common-V5.0-Added-34 begin -->
+    <bool name="enableAutoSavePicVideo">true</bool>
+    <!-- Europe-Common-V5.0-Added-34 end -->
+
+    <!-- Europe-Common-V5.0-Added-32 begin -->
+    <string name="prefPlaymode">slideshowactivity</string>
+    <!-- Europe-Common-V5.0-Added-32 end -->
+
+    <!-- Europe-Common-V5.0-Added-16 begin -->
+    <bool name="enableReplyAll">true</bool>
+    <!-- Europe-Common-V5.0-Added-16 end -->
+
+    <!-- Europe-Common-V5.0-Added-14 begin -->
+    <bool name="creationModeEnabled">true</bool>
+    <bool name="gcfMms305Enabled">true</bool>
+    <!-- Europe-Common-V5.0-Added-14 end -->
+
+    <!-- Europe-Common-V5.0-Added-21 begin -->
+    <bool name="isChangeClassZeroMessageShow">true</bool>
+    <!-- Europe-Common-V5.0-Added-21 end -->
+    <!-- DTS2015032102410 linbo/wx228314 20150328 begin -->
+    <bool name="enableSmartAchive">false</bool>
+    <!-- DTS2015032102410 linbo/wx228314 20150328 end -->
+    <!-- Europe-Common-V5.0-Added-43 && DTS2015030901480  begin -->
+    <bool name="enableFdnCheckForMms">true</bool>
+    <!-- Europe-Common-V5.0-Added-43 && DTS2015030901480  end -->
+
+    <!-- DTS2015031105990  begin -->
+    <bool name="enableWappushReplace">true</bool>
+    <!-- DTS2015031105990  end -->
+    <!-- AR0002GJNH begin -->
+    <int name="defaultAutoRetrievalMms">1</int>
+    <!-- AR0002GJNH end -->
+
+    <!-- SW_GLOBAL_EUROPE_057 begin -->
+    <bool name="supportInstallDRMRights">true</bool>
+    <!-- SW_GLOBAL_EUROPE_057 end -->
+    <!-- SW_GLOBAL_EUROPE_012 begin -->
+    <bool name="enabledNotifyWapMMSC">true</bool>
+    <!-- SW_GLOBAL_EUROPE_012 end -->
+    <!-- AR0002O5LA begin -->
+    <int name="smsToMmsTextThreshold">5</int>
+    <!-- AR0002O5LA end -->
+    <!-- AR0002GJNQ begin -->
+    <bool name="enableMmsCustomizedUA">false</bool>
+    <string name="userAgent">Android-Mms/2.0</string>
+    <!-- AR0002GJNQ end -->
+    <!-- AR0002GJR2 begin -->
+    <string hw_networkmode_preference="11,9,3,2,1"/>
+    <!-- AR0002GJR2 end -->
+    <!-- DTS2015092902692  begin -->
+    <bool name="enableMmsDRInRussia">true</bool>
+    <!-- DTS2015092902692  end -->
+    <!-- DTS2015062407820 yexiaoyan 20151031 begin-->
+    <bool name="enableSlideDuration">false</bool>
+    <!-- DTS2015062407820 yexiaoyan 20151031 end-->
+    <!-- AR00039F58 begin -->
+    <bool name="enableForwardMessageFrom">false</bool>
+    <!-- AR00039F58 end -->
+    <!-- DTS2015102307680 hushili 20151104 begin-->
+    <bool name="enableToastWhenRoamingDataClose">true</bool>
+    <!-- DTS2015102307680 hushili 20151104 end-->
+    <!-- DTS2016032202007 wangning 00227088 20160325 begin -->
+    <bool name="enableSmsNotifyInSilentMode">false</bool>
+    <!-- DTS2016032202007 wangning 00227088 20160325 end -->
+    <!-- AR0004IN1R fanchuanwen wx229747 20160829 begin -->
+    <string name="mccDefault7BitOff">230,231,260,216</string>
+    <!-- AR0004IN1R fanchuanwen wx229747 20160829 end -->
+</mms_config>

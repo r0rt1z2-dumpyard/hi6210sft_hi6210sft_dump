@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<favorites xmlns:launcher="http://schemas.android.com/apk/res/com.huawei.android.launcher">
+    <!-- AR0003AUH4 xiekaiming wx278091 20151227 begin -->
+    <!-- AR0003M11T xiekaiming wx278091 20160125 begin -->
+    <!-- the 2nd screen -->
+    <!-- AR0003O1T1 xiekaiming wx278091 20160226 begin -->
+    <!-- AR0003O1T1 xiekaiming wx278091 20160302 begin -->
+    <favorite
+        launcher:packageName="com.android.settings"
+        launcher:className="com.android.settings.HWSettings"
+        launcher:container="-100"
+        launcher:screen="2"
+        launcher:x="0"
+        launcher:y="2"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="insertinto" />
+    <!-- AR0003O1T1 xiekaiming wx278091 20160302  end  -->
+    <!-- AR0003O1T1 xiekaiming wx278091 20160226  end  -->
+    <favorite
+        launcher:packageName="com.zentity.vodafone"
+        launcher:className="com.zentity.vodafone.SplashScreenActivity"
+        launcher:container="-100"
+        launcher:screen="1"
+        launcher:x="2"
+        launcher:y="4"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="insertinto"/>
+    <!-- the 2nd screen -->
+    <!-- AR0003M11T xiekaiming wx278091 20160125 end -->
+    <!-- the 3rd screen -->
+    <favorite
+        launcher:packageName="com.huawei.userguide"
+        launcher:className="com.huawei.userguide.AssetsFileOpenActivity"
+        launcher:container="@string/folder_tools"/>
+    <!-- the 3rd screen -->
+    <!-- AR0003AUH4 xiekaiming wx278091 20151227 end -->
+</favorites>

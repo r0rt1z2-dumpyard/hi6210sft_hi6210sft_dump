@@ -1,0 +1,7 @@
+/data/hw_init/cust/vodafone/mt/app/HwBackup_Local/HwBackup_Local.apk
+
+/data/hw_init/cust/app/HPLegacyPlugin/HPLegacyPlugin.apk
+/data/hw_init/cust/app/EyeEm/EyeEm.apk
+/data/hw_init/cust/app/Todoist/Todoist.apk
+/data/hw_init/cust/app/Todoist_ntp/Todoist_ntp.apk
+/data/hw_init/cust/app/NewsRepublic/NewsRepublic.apk

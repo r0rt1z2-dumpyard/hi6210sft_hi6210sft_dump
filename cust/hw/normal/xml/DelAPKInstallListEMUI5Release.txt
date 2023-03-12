@@ -1,0 +1,2 @@
+/data/hw_init/system/app/Huawei_Swype_for_Huawei/Huawei_Swype_for_Huawei.apk
+/data/hw_init/system/app/HwMirror/HwMirror.apk

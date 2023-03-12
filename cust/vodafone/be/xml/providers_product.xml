@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- AR0002EVGA huqimeng/wx280357  20150910 create-->
+<providers_product>
+    <!--E-Mail -->
+    <provider id="proximus.be" label="proximus.be" domain="proximus.be">
+        <incoming uri="imap+ssl://imap.proximus.be:993" username="$email" />
+        <outgoing uri="smtp+tls://relay.proximus.be:587" username="$email" />
+    </provider>
+    <provider id="skynet.be" label="skynet.be" domain="skynet.be">
+        <incoming uri="imap+ssl://imap.proximus.be:993" username="$email" />
+        <outgoing uri="smtp+tls://relay.proximus.be:587" username="$email" />
+    </provider>
+    <provider id="kidcity.be" label="kidcity.be" domain="kidcity.be">
+        <incoming uri="imap+ssl://imap.proximus.be:993" username="$email" />
+        <outgoing uri="smtp+tls://relay.proximus.be:587" username="$email" />
+    </provider>
+    <provider id="belgacom.net" label="belgacom.net" domain="belgacom.net">
+        <incoming uri="imap+ssl://imap.proximus.be:993" username="$email" />
+        <outgoing uri="smtp+tls://relay.proximus.be:587" username="$email" />
+    </provider>
+</providers_product>

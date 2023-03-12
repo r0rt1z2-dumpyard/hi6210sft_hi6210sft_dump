@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apnReminderList version="1">
+    <!-- SW_GLOBAL_EUROPE_013 begin -->
+    <!-- DTS2016010808975 zhanglinghui wx307492 20160203 begin -->
+    <apnReminder plmn="23415" remindType="imsiChange" title="Please Choose your Tariff:">
+        <apnSetting
+            name="PAYG WAP"
+            apn="pp.vodafone.co.uk"
+            displayName="1 for Vodafone Prepay"
+            onsName="vodafone UK"
+            otherApns = "PAYG WAP:pp.vodafone.co.uk"
+            vmNumber="121"
+            vmTag="voicemail"
+        />
+        <apnSetting
+            name="Contract WAP"
+            apn="wap.vodafone.co.uk"
+            displayName="2 for Vodafone Postpay"
+            onsName="vodafone UK"
+            otherApns = ""
+            vmNumber="121"
+            vmTag="voicemail"
+        />
+        <apnSetting
+            name="Sainsbury's PAYG"
+            apn="payg.mobilebysainsburys.co.uk"
+            displayName="3 for Sainsbury's"
+            onsName="Sainsbury's"
+            otherApns = ""
+            vmNumber="121"
+            vmTag="voicemail"
+        />
+        <apnSetting
+            name="Talkmobile Prepay"
+            apn="payg.talkmobile.co.uk"
+            displayName="1 for Talk Mobile Prepay"
+            onsName="Talkmobile"
+            otherApns = ""
+            vmNumber="121"
+            vmTag="voicemail"
+        />
+        <apnSetting
+            name="Talkmobile Contract"
+            apn="talkmobile.co.uk"
+            displayName="2 for Talk Mobile Postpay"
+            onsName="Talkmobile"
+            otherApns = ""
+            vmNumber="121"
+            vmTag="voicemail"
+        />
+    </apnReminder>
+    <!-- DTS2016010808975 zhanglinghui wx307492 20160203 end -->
+    <!-- SW_GLOBAL_EUROPE_013 end -->
+    <!-- AR00043VVR xiazhiqiao wx320883 20160530 begin -->
+    <apnReminder plmn="52501" remindType="imsiChange" title="Choose your default APN:">
+        <apnSetting
+            name="Singtel (Postpaid)"
+            apn="e-ideas"
+            displayName="Singtel (Postpaid)"
+            vmNumber="1389"
+            vmTag="voicemail"
+        />
+        <apnSetting
+            name="Singtel (Prepaid)"
+            apn="hicard"
+            displayName="Singtel (Prepaid)"
+            vmNumber="1389"
+            vmTag="voicemail"
+        />
+    </apnReminder>
+    <apnReminder plmn="51502" remindType="imsiChange" title="Choose your default APN">
+        <apnSetting
+            name="myGlobe Internet"
+            apn="internet.globe.com.ph"
+            displayName="Globe Postpaid"
+            vmNumber=""
+            vmTag="voicemail"
+        />
+        <apnSetting
+            name="myGlobe INET"
+            apn="http.globe.com.ph"
+            displayName="Globe Prepaid"
+            vmNumber=""
+            vmTag="voicemail"
+        />
+    </apnReminder>
+    <apnReminder plmn="52505" remindType="imsiChange" title="Choose your default APN:">
+        <apnSetting
+            name="SH Data Postpaid"
+            apn="shwap"
+            displayName="StarHub (Postpaid)"
+            onsName=""
+            otherApns = ""
+            vmNumber=""
+            vmTag="voicemail"
+        />
+           <apnSetting
+            name="SH Data Prepaid"
+            apn="shppd"
+            displayName="StarHub (Prepaid)"
+            onsName=""
+            otherApns = ""
+            vmNumber=""
+            vmTag="voicemail"
+        />
+    </apnReminder>
+   <!-- AR00043VVR xiazhiqiao wx320883 20160530 end -->
+</apnReminderList>

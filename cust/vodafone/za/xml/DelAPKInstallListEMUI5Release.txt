@@ -1,0 +1,11 @@
+/data/dataapp/Vlive_ZA/Vlive_ZA.apk
+/data/dataapp/MyVodacom_ZA/MyVodacom_ZA.apk
+/data/dataapp/Deezer_ZA/Deezer_ZA.apk
+/data/dataapp/Gameloft_ZA/Gameloft_ZA.apk
+/data/dataapp/VodafoneStart_Global/VodafoneStart_Global.apk
+/data/dataapp/Protect_Global/Protect_Global.apk,priv
+/data/dataapp/Dropbox_Global/Dropbox_Global.apk
+/data/dataapp/E_School_ZA/E_School_ZA.apk
+/data/dataapp/Apps_store_ZA/Apps_store_ZA.apk
+/data/dataapp/Maramedia_ZA/Maramedia_ZA.apk
+/data/hw_init/cust/vodafone/za/app/HwBackup_Local/HwBackup_Local.apk

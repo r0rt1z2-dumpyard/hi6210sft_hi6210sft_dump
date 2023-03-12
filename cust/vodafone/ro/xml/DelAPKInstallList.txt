@@ -1,0 +1,13 @@
+/data/dataapp/Zonga_RO/Zonga_RO.apk
+/data/dataapp/Seenow_RO/Seenow_RO.apk
+/data/dataapp/AndroidVFSigned_RO/AndroidVFSigned_RO.apk
+/data/dataapp/MyVodafone_RO/MyVodafone_RO.apk
+
+/data/dataapp/Protect_Global/Protect_Global.apk,nosys
+/data/dataapp/Dropbox_Global/Dropbox_Global.apk
+/data/dataapp/Todoist_VDF/Todoist_VDF.apk
+
+/data/dataapp/Protect_Global_M/Protect_Global_M.apk,priv
+/data/dataapp/Dropbox_Global_M/Dropbox_Global_M.apk
+/data/dataapp/Amazon_Kindle_Global/Amazon_Kindle_Global.apk
+/data/dataapp/Ebay_Global/Ebay_Global.apk

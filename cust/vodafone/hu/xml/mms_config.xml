@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<!-- Version History
+        version 1 - initial version.
+        version 2 - added recipientLimit.
+        version 3 - added min/max recycler values.
+        version 4 - added sms to mms text threshold.
+-->
+
+<mms_config version="4">
+    <!-- AR0002EVGA guben WX296140 20150912 begin-->
+    <int name="smsToMmsTextThreshold">11</int>
+    <!-- AR0002EVGA guben WX296140 20150912 end-->
+    <!-- AR0002EVGA guben WX296140 20150912 begin-->
+    <int name="customDefaultSlideDuration">3000</int>
+    <!-- AR0002EVGA guben WX296140 20150912 end-->
+    <!-- AR0002EVGA guben WX296140 20150912 begin-->
+    <bool name="modifySMSCenterNumber">true</bool>
+    <!-- AR0002EVGA guben WX296140 20150912 end-->
+    <!-- AR0002EVGA guben WX296140 20150912 begin-->
+    <string name="SMSCAddress">+36709996500</string>
+    <!-- AR0002EVGA guben WX296140 20150912 end-->
+    <!-- DTS2015112504963 zhangfang/zWX207092 20151127 begin-->
+    <bool name="smsOptimizationCharacters">true</bool>
+    <!-- DTS2015112504963 zhangfang/zWX207092 20151127 end-->
+</mms_config>

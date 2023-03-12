@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<favorites xmlns:launcher="http://schemas.android.com/apk/res/com.huawei.android.launcher">
+    <!-- AR0003AUH4 xiekaiming wx278091 20151227 begin -->
+    <!-- the 3rd screen -->
+    <favorite
+        launcher:packageName="com.joelapenna.foursquared"
+        launcher:className="com.joelapenna.foursquared.MainActivity"
+        launcher:container="@string/folder_tools"/>
+    <favorite
+        launcher:packageName="com.spotify.music"
+        launcher:className="com.spotify.music.MainActivity"
+        launcher:container="Vodafone"/>
+    <!-- the 3rd screen -->
+    <!-- AR0003AUH4 xiekaiming wx278091 20151227 end -->
+</favorites>

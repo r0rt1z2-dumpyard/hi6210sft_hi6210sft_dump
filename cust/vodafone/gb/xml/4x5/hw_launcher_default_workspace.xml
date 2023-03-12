@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<favorites xmlns:launcher="http://schemas.android.com/apk/res/com.huawei.android.launcher">
+    <!-- AR0003AUH4 xiekaiming wx278091 20151227 begin -->
+    <!-- the 3rd screen -->
+    <favorite
+        launcher:packageName="com.vodafone.directaccessories"
+        launcher:className="zg.troido.vodafone_gradle.SplashActivity"
+        launcher:container="Vodafone"/>
+    <!-- the 3rd screen -->
+    <!-- AR0003AUH4 xiekaiming wx278091 20151227 end -->
+</favorites>

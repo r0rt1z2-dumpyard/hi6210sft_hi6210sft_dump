@@ -1,0 +1,2 @@
+/data/dataapp/MyProximus_BE/MyProximus_BE.apk
+/data/hw_init/cust/vodafone/be/app/HwBackup_Local/HwBackup_Local.apk

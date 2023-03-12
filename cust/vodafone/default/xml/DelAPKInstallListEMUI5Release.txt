@@ -1,0 +1,5 @@
+/cust/vodafone/default/app/GameBoxGlobal/GameBoxGlobal.apk
+/data/hw_init/cust/vodafone/default/app/PlusOne/PlusOne.apk
+/data/hw_init/cust/vodafone/default/app/Books/Books.apk
+/data/hw_init/cust/vodafone/default/app/Newsstand/Newsstand.apk
+/data/hw_init/cust/vodafone/default/app/PlayGames/PlayGames.apk

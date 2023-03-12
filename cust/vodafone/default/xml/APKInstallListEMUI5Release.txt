@@ -1,0 +1,9 @@
+/cust/vodafone/default/app/HwOUC/HwOUC.apk
+/cust/vodafone/default/app/HwID/HwID.apk
+/cust/vodafone/default/app/HwCloudDrive_Local/HwCloudDrive_Local.apk
+/cust/vodafone/default/app/HwPhoneService/HwPhoneService.apk,priv
+/data/hw_init/cust/vodafone/default/app/LatinImeGoogle/LatinImeGoogle.apk
+/data/hw_init/cust/vodafone/default/app/talkback/talkback.apk
+/data/hw_init/cust/vodafone/default/app/ChromeHomePage/ChromeHomePage.apk
+/data/hw_init/cust/vodafone/default/app/PredefinedEapSim/PredefinedEapSim.apk
+/data/hw_init/cust/vodafone/default/app/OMACP/OMACP.apk

@@ -1,0 +1,7 @@
+/data/dataapp/HwUserGuide/HwUserGuide.apk
+/data/hw_init/cust/vodafone/hu/app/HwOUC/HwOUC.apk
+/data/hw_init/cust/vodafone/hu/app/HwPayGlobal/HwPayGlobal.apk
+/data/hw_init/cust/vodafone/hu/app/HwThemeManager/HwThemeManager.apk
+/data/hw_init/cust/vodafone/hu/app/HwID/HwID.apk
+/data/hw_init/cust/vodafone/hu/app/HwCloudDrive_Local/HwCloudDrive_Local.apk
+/data/hw_init/cust/vodafone/hu/app/HwPhoneService/HwPhoneService.apk,priv

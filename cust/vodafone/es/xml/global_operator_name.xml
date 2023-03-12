@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<OperatorName>
+<!-- AR0002EVBU hesen wx218260 20150912 begin -->
+    <!-- DTS2016030408492 wangqi wx205225 20160314 begin -->
+    <search sim_mcc_mnc="21406" gid="" spn="Lowi" mcc_mnc_name="21401" network_state="2G" display_name="Lowi 2G"></search>
+    <search sim_mcc_mnc="21406" gid="" spn="Lowi" mcc_mnc_name="21401" network_state="3G" display_name="Lowi 3G"></search>
+    <search sim_mcc_mnc="21406" gid="" spn="Lowi" mcc_mnc_name="21401" network_state="4G" display_name="Lowi 4G"></search>
+    <search sim_mcc_mnc="21406" gid="" spn="Eroski Movil" mcc_mnc_name="21401" network_state="2G" display_name="Eroski Movil 2G"></search>
+    <search sim_mcc_mnc="21406" gid="" spn="Eroski Movil" mcc_mnc_name="21401" network_state="3G" display_name="Eroski Movil 3G"></search>
+    <search sim_mcc_mnc="21406" gid="" spn="Eroski Movil" mcc_mnc_name="21401" network_state="4G" display_name="Eroski Movil 4G"></search>
+    <!-- DTS2016030408492 wangqi wx205225 20160314 end -->
+<!-- AR0002EVBU hesen wx218260 20150912 end -->
+</OperatorName>
